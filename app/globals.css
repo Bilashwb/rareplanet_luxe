@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.lux-text{
+    font-family: var(--font-great-vibes);
+}
