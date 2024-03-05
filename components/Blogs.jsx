@@ -31,7 +31,7 @@ export default function Blogs(props) {
        <img className="w-full rounded-md" src={"/blogs/"+item.image}/>
        <div className="test__body absolute inset-0 p-8 text-white flex flex-col">
          <div className="relative">
-           <h1 className={props.font+" test__title text-3xl font-bold mb-3"}>{item.title}</h1>
+           <h1 className={props.font+"  text-sm text-white font-bold text-center md:text-3xl" }>{item.title}</h1>
          </div>
          {/* <div className="mt-auto">
            <span className="test__tag bg-white bg-opacity-60 py-1 px-4 rounded-md text-black">#tag</span>
