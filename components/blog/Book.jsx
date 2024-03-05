@@ -13,10 +13,7 @@ export default function Book(props) {
         setdata(content[0].bn)
     else if(temp=='hi')
     setdata(content[0].hi)
-    else if(temp=='zh'){
-        setdata(content[0].zn)
-       // console.log(content[0].zn)
-    }
+ 
     
     else if(temp=='ta')
     setdata(content[0].ta)
@@ -47,7 +44,6 @@ setdata(content[0].en)
             <option value="en">English</option>
             <option value="hi">हिन्दी (Hindi)</option>
             <option value="bn">বাংলা (Bengali)</option>
-            <option value="zh">中文 (Chinese)</option>
             <option value="ta">தமிழ் (Tamil)</option>
             <option value="te">తెలుగు (Telugu)</option>
             <option value="kn">ಕನ್ನಡ (Kannada)</option>
