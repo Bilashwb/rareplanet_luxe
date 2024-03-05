@@ -33,7 +33,7 @@ export default function BlogSlider(props) {
             >
                 {
                     blogs.map((item, index) => {
-                        return <SwiperSlide >
+                        return <SwiperSlide  key={index}>
 
                             <div className='border bottom-1 border-yellow-500 text-center ps-4 py-4'>
 
