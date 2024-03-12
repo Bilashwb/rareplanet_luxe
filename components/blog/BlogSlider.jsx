@@ -37,7 +37,7 @@ export default function BlogSlider(props) {
 
                             <div className='border bottom-1 border-yellow-500 text-center ps-4 py-4'>
 
-                                <img className='h-40 w-40' src={'/blogs/' + item.image} />
+                                <img className='h-40 w-40' src={'/blogs/square/' + item.image} />
                             </div>
                             <Link href={'/' + item.handle}>
 

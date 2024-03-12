@@ -3,7 +3,7 @@ const lang=[
         id:1,
         title: "Stole Assorted Indian Fabric",
         handle: "stole-assorted-indian-fabric",
-        image: 'stole-assorted-indian-fabric.png',
+        image: 'stole-assorted-indian-fabric.jpg',
         content:[
            {
             en:[
@@ -593,7 +593,7 @@ const lang=[
         id:8,
         title: "Cowbells",
         handle: "cowbells",
-        image: 'cowbells.png',
+        image: 'cowbells.jpg',
         content:[
            {
             en:[
@@ -1236,7 +1236,7 @@ const lang=[
         id:23,
         title: "Sandalwood Carving",
         handle: "sandalwood-carving",
-        image: 'sandalwood-carving.png',
+        image: 'sandalwood-carving.jpg',
         content:[
            {
             en:[
@@ -1650,7 +1650,7 @@ const lang=[
         id:33,
         title: "Lac Mirror Rajasthani",
         handle: "lac-mirror-rajasthani",
-        image: 'lac-mirror-rajasthani.png',
+        image: 'lac-mirror-rajasthani.jpg',
         content:[
            {
             en:[

@@ -3,7 +3,7 @@ const blogs = [
         id: 1,
         title: "Stole Assorted Indian Fabric",
         handle: "stole-assorted-indian-fabric",
-        image: 'stole-assorted-indian-fabric.png'
+        image: 'stole-assorted-indian-fabric.jpg'
     },
     {
         id: 2,
@@ -41,7 +41,7 @@ const blogs = [
         id: 8,
         title: "Cowbells",
         handle: "cowbells",
-        image: 'cowbells.png'
+        image: 'cowbells.jpg'
     }, {
         id: 9,
         title: "Dokra West Bengal",
@@ -121,7 +121,7 @@ const blogs = [
         id: 23,
         title: "Sandalwood Carving",
         handle: "sandalwood-carving",
-        image: 'sandalwood-carving.png'
+        image: 'sandalwood-carving.jpg'
     },
     {
         id: 24,
@@ -170,7 +170,7 @@ const blogs = [
         id: 33,
         title: "Lac Mirror Rajasthani",
         handle: "lac-mirror-rajasthani",
-        image: 'lac-mirror-rajasthani.png'
+        image: 'lac-mirror-rajasthani.jpg'
     },
     {
         id: 34,
