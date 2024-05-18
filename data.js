@@ -177,7 +177,61 @@ const blogs = [
         title: "Wine Glass (Moradabad)",
         handle: "wine-glass-moradabad",
         image: 'wine-glass-moradabad.jpg'
-    }
+    },
+    {
+        id:35,
+        title: "Banarasi Saree",
+        handle: "banarasi-saree",
+        image: 'banarasi-saree.jpg',
+    },
+    {
+        id:36,
+        title: "Resin Idols",
+        handle: "resin-idols",
+        image: 'resin-idols.jpg',
+    },
+    {
+        id:37,
+        title: "Blue Pottery",
+        handle: "blue-pottery",
+        image: 'blue-pottery.jpg',
+    },
+    {
+        id:38,
+        title: "Phulkari",
+        handle: "phulkari",
+        image: 'phulkari.jpg',
+    },
+    {
+        id:39,
+        title: "Pashmina shawls",
+        handle: "pashmina-shawls",
+        image: 'pashmina-shawls.jpg',
+    },
+    {
+        id:40,
+        title: "Sitara Bag",
+        handle: "sitara-bag",
+        image: 'sitara-bag.jpg',
+    },
+    {
+        id:41,
+        title: " Leather Bags",
+        handle: "leather-bags",
+        image: 'leather-bags.jpg',
+    },
+    {
+        id:42,
+        title: "Liquid Perfumes",
+        handle: "liquid-perfumes",
+        image: 'liquid-perfumes.jpg',
+    },
+    {
+        id:43,
+        title: "AtiModa Perfumes",
+        handle: "atimoda-perfumes",
+        image: 'atimoda-perfumes.jpg',
+    },
 
 ]
 

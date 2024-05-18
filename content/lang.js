@@ -1143,42 +1143,6 @@ const lang=[
         ]
     },
     {
-        id:21,
-        title: "Resin Idols",
-        handle: "resin-idols",
-        image: 'resin-idols.jpg',
-        content:[
-           {
-            en:[
-                "Resin sculptures and statues are relatively new additions to the statuary world. Resin sculptures get their name from the material resin, which is a combustible organic component. Resin statues are made of plant secretes – a type of coating plants use to heal and cover their injuries, and other organic substances. The sticky characterization of resin makes it a great adhesive as well. It is also quite light compared to some other statue material. That means you can carry it easily from one place to another. Resin is pretty great for casting statues because of its incapability of dissolving in water as well. Resin sculptures have an amazing quality – you can make them look like they are made of any of these – bronze, stone, marble, or porcelain. Resin sculptures have warmed their way into our hearts within a quite short time. And now resin has become a favorite material for casting statues, figurines, award statuettes, etc. There is nothing better than resin when it comes to casting your favorite character’s figurine.",
-                "Resin products have many qualities that make them desirable from an artistic perspective. Water-resistance is one of them. You can easily keep your favorite statue outdoor in the garden if you know a few tricks on how to protect them. Since they are quite lightweight, you can also bring them indoors"
-            ],
-    hi:["राल की मूर्तियां और प्रतिमाएं मूर्ति की दुनिया में अपेक्षाकृत नए जोड़े गए हैं। राल की मूर्तियों को उनका नाम सामग्री राल से मिलता है, जो एक दहनशील कार्बनिक घटक है। राल की मूर्तियां पौधों के स्राव से बनी होती हैं - एक प्रकार की कोटिंग पौधे अपने उपचार और कवर के लिए उपयोग करते हैं चोटें, और अन्य कार्बनिक पदार्थ। राल की चिपचिपा विशेषता इसे एक महान चिपकने वाला भी बनाती है। यह कुछ अन्य मूर्ति सामग्री की तुलना में काफी हल्का है। इसका मतलब है कि आप इसे आसानी से एक स्थान से दूसरे स्थान तक ले जा सकते हैं। राल बहुत बढ़िया है मूर्तियों की ढलाई पानी में भी घुलने में असमर्थ होने के कारण होती है। राल की मूर्तियों में एक अद्भुत गुण होता है - आप उन्हें ऐसे दिखा सकते हैं जैसे वे इनमें से किसी से बनी हों - कांस्य, पत्थर, संगमरमर या चीनी मिट्टी। राल की मूर्तियों ने अपना रास्ता गर्म कर लिया है बहुत ही कम समय में हमारे दिल। और अब राल मूर्तियों, मूर्तियों, पुरस्कार प्रतिमाओं आदि की ढलाई के लिए एक पसंदीदा सामग्री बन गई है। जब आपके पसंदीदा चरित्र की मूर्ति गढ़ने की बात आती है तो राल से बेहतर कुछ भी नहीं है।",
-                 "राल उत्पादों में कई गुण होते हैं जो उन्हें कलात्मक दृष्टिकोण से वांछनीय बनाते हैं। जल-प्रतिरोध उनमें से एक है। यदि आप उनकी सुरक्षा के बारे में कुछ तरकीबें जानते हैं तो आप अपनी पसंदीदा मूर्ति को बगीचे में आसानी से रख सकते हैं। चूंकि वे काफी हैं हल्के, आप उन्हें घर के अंदर भी ला सकते हैं"
-             ],
-    bn:["রজন ভাস্কর্য এবং মূর্তিগুলি মূর্তি জগতের তুলনামূলকভাবে নতুন সংযোজন৷ রজন ভাস্কর্যগুলি তাদের নাম পেয়েছে উপাদান রজন থেকে, যা একটি দাহ্য জৈব উপাদান৷ রজন মূর্তিগুলি উদ্ভিদের নিঃসরণ দিয়ে তৈরি - এক ধরণের আবরণ গাছপালা নিরাময় করতে এবং ঢেকে রাখতে ব্যবহার করে৷ আঘাত, এবং অন্যান্য জৈব পদার্থ। রজন এর চটচটে বৈশিষ্ট্য এটিকে একটি দুর্দান্ত আঠালো করে তোলে। এটি অন্যান্য কিছু মূর্তি উপাদানের তুলনায় বেশ হালকা। এর মানে আপনি এটিকে এক জায়গা থেকে অন্য জায়গায় সহজেই বহন করতে পারেন। রজন এর জন্য বেশ দুর্দান্ত জলে দ্রবীভূত হওয়ার অক্ষমতার কারণে মূর্তিগুলিকেও ঢালাই করা৷ রজন ভাস্কর্যগুলির একটি আশ্চর্যজনক গুণ রয়েছে - আপনি সেগুলিকে এমন দেখাতে পারেন যেন সেগুলি এগুলির যে কোনও একটি দিয়ে তৈরি - ব্রোঞ্জ, পাথর, মার্বেল বা চীনামাটির বাসন৷ রজন ভাস্কর্যগুলি তাদের পথ উষ্ণ করেছে৷ খুব অল্প সময়ের মধ্যেই আমাদের হৃদয়। এবং এখন রজন মূর্তি, মূর্তি, পুরস্কারের মূর্তি ইত্যাদি ঢালাইয়ের জন্য একটি প্রিয় উপাদান হয়ে উঠেছে। আপনার প্রিয় চরিত্রের মূর্তি কাস্ট করার ক্ষেত্রে রেজিনের চেয়ে ভাল আর কিছু নেই।",
-                 "রজন পণ্যগুলির অনেক গুণ রয়েছে যা শৈল্পিক দৃষ্টিকোণ থেকে এগুলিকে পছন্দসই করে তোলে৷ জল-প্রতিরোধিতা তাদের মধ্যে একটি৷ আপনি সহজেই আপনার প্রিয় মূর্তিটি বাগানে বাইরে রাখতে পারেন যদি আপনি সেগুলিকে রক্ষা করার কিছু কৌশল জানেন৷ যেহেতু সেগুলি বেশ ভাল লাইটওয়েট, আপনি তাদের বাড়ির ভিতরেও আনতে পারেন"
-             ],
-    zh:["树脂雕塑和雕像是雕塑世界中相对较新的补充。树脂雕塑的名字来源于材料树脂，树脂是一种可燃的有机成分。树脂雕像是由植物分泌物制成的——一种植物用来治愈和覆盖其表面的涂层。 伤害和其他有机物质。树脂的粘性特性使其成为一种很好的粘合剂。与其他一些雕像材料相比，它也很轻。这意味着您可以轻松地将它从一个地方带到另一个地方。树脂非常适合用于 树脂雕塑具有令人惊叹的品质，您可以让它们看起来像是由青铜、石头、大理石或瓷器中的任何一种制成的。树脂雕塑已逐渐进入人们的视野。 在很短的时间内，树脂已经成为铸造雕像、雕像、颁奖小雕像等的最受欢迎的材料。当谈到铸造您最喜欢的角色的雕像时，没有什么比树脂更好的了。",
-        "树脂产品具有许多从艺术角度来看令人向往的品质。防水就是其中之一。如果您知道一些如何保护它们的技巧，您可以轻松地将您最喜欢的雕像放在户外花园中。因为它们非常耐用 重量轻，您也可以将它们带到室内"
-             ],
-    ta:["பிசின் சிற்பங்கள் மற்றும் சிலைகள் சிலை உலகிற்கு ஒப்பீட்டளவில் புதிய சேர்க்கைகள் ஆகும். பிசின் சிற்பங்கள் பொருள் பிசின் என்ற பெயரைப் பெற்றன, இது எரியக்கூடிய கரிம கூறு ஆகும். பிசின் சிலைகள் தாவர சுரப்புகளால் செய்யப்படுகின்றன - ஒரு வகை பூச்சு தாவரங்கள் அவற்றை குணப்படுத்தவும் மறைக்கவும் பயன்படுத்துகின்றன. காயங்கள், மற்றும் பிற கரிமப் பொருட்கள், பிசின் ஒட்டும் தன்மையால் அதை ஒரு சிறந்த பிசின் ஆக்குகிறது. சில சிலைகளுடன் ஒப்பிடும்போது இது மிகவும் லேசானது. அதாவது நீங்கள் அதை ஒரு இடத்திலிருந்து மற்றொரு இடத்திற்கு எளிதாக எடுத்துச் செல்லலாம். பிசின் மிகவும் சிறந்தது. வார்ப்பு சிலைகள் தண்ணீரிலும் கரைக்க முடியாத காரணத்தால், பிசின் சிற்பங்கள் அற்புதமான குணம் கொண்டவை - வெண்கலம், கல், பளிங்கு அல்லது பீங்கான் இவற்றில் ஏதேனும் ஒன்றைக் கொண்டு அவற்றை உருவாக்குவது போல் செய்யலாம். மிகக் குறுகிய காலத்திற்குள் எங்கள் இதயங்கள். இப்போது பிசின் சிலைகள், சிலைகள், விருது சிலைகள் போன்றவற்றை வார்ப்பதில் பிடித்த பொருளாகிவிட்டது. உங்களுக்குப் பிடித்த கதாபாத்திரத்தின் உருவத்தை வார்ப்பதில் பிசினை விட சிறந்தது எதுவுமில்லை.",
-                 "பிசின் தயாரிப்புகள் கலைக் கண்ணோட்டத்தில் விரும்பத்தக்க பல குணங்களைக் கொண்டிருக்கின்றன. நீர்-எதிர்ப்பு அவற்றில் ஒன்று. அவற்றை எவ்வாறு பாதுகாப்பது என்பது குறித்த சில நுணுக்கங்கள் உங்களுக்குத் தெரிந்தால், உங்களுக்குப் பிடித்தமான சிலையை தோட்டத்தில் எளிதாக வைக்கலாம். இலகுரக, நீங்கள் அவற்றை வீட்டிற்குள் கொண்டு வரலாம்"
-             ],
-    te:["రెసిన్ శిల్పాలు మరియు విగ్రహాలు విగ్రహాల ప్రపంచానికి సాపేక్షంగా కొత్త చేర్పులు. రెసిన్ శిల్పాలు వాటి పేరును మెటీరియల్ రెసిన్ నుండి పొందాయి, ఇది మండే సేంద్రీయ భాగం. రెసిన్ విగ్రహాలు మొక్కల స్రావాలతో తయారు చేయబడ్డాయి - ఒక రకమైన పూత మొక్కలు వాటిని నయం చేయడానికి మరియు కవర్ చేయడానికి ఉపయోగిస్తాయి. గాయాలు, మరియు ఇతర సేంద్రీయ పదార్థాలు.రెసిన్ యొక్క అంటుకునే లక్షణం దానిని గొప్ప అంటుకునేలా చేస్తుంది. ఇది కొన్ని ఇతర విగ్రహ పదార్థాలతో పోలిస్తే చాలా తేలికగా ఉంటుంది. అంటే మీరు దానిని ఒక ప్రదేశం నుండి మరొక ప్రదేశానికి సులభంగా తీసుకువెళ్లవచ్చు. రెసిన్ చాలా గొప్పది. నీటిలో కూడా కరగలేకపోవడం వల్ల విగ్రహాలను తారాగణం చేయడం, రెసిన్ శిల్పాలు అద్భుతమైన నాణ్యతను కలిగి ఉంటాయి - మీరు వాటిని కాంస్య, రాయి, పాలరాయి లేదా పింగాణీ వంటి వాటితో తయారు చేసినట్లు మీరు చూడవచ్చు. చాలా తక్కువ సమయంలోనే మన హృదయాలు. మరియు ఇప్పుడు విగ్రహాలు, బొమ్మలు, అవార్డు విగ్రహాలు మొదలైనవాటిని వేయడానికి రెసిన్ ఇష్టమైన పదార్థంగా మారింది. మీకు ఇష్టమైన పాత్రల బొమ్మను వేయడానికి రెసిన్ కంటే మెరుగైనది ఏదీ లేదు.",
-                 "రెసిన్ ఉత్పత్తులు కళాత్మక దృక్కోణం నుండి వాటిని కావాల్సిన అనేక లక్షణాలను కలిగి ఉన్నాయి. వాటిలో నీటి-నిరోధకత ఒకటి. మీకు ఇష్టమైన విగ్రహాన్ని ఎలా రక్షించుకోవాలో కొన్ని ఉపాయాలు మీకు తెలిస్తే వాటిని సులభంగా తోటలో ఉంచవచ్చు. తేలికైనది, మీరు వాటిని ఇంట్లోకి కూడా తీసుకురావచ్చు"
-             ],
-    kn:["ರಾಳ ಶಿಲ್ಪಗಳು ಮತ್ತು ಪ್ರತಿಮೆಗಳು ಪ್ರತಿಮೆ ಪ್ರಪಂಚಕ್ಕೆ ತುಲನಾತ್ಮಕವಾಗಿ ಹೊಸ ಸೇರ್ಪಡೆಗಳಾಗಿವೆ. ರಾಳದ ಶಿಲ್ಪಗಳು ವಸ್ತು ರಾಳದಿಂದ ತಮ್ಮ ಹೆಸರನ್ನು ಪಡೆದುಕೊಂಡಿವೆ, ಇದು ದಹಿಸುವ ಸಾವಯವ ಘಟಕವಾಗಿದೆ. ರಾಳದ ಪ್ರತಿಮೆಗಳನ್ನು ಸಸ್ಯ ಸ್ರವಿಸುವ ವಸ್ತುಗಳಿಂದ ತಯಾರಿಸಲಾಗುತ್ತದೆ - ಒಂದು ರೀತಿಯ ಲೇಪನ ಸಸ್ಯಗಳು ಅವುಗಳನ್ನು ಗುಣಪಡಿಸಲು ಮತ್ತು ಮುಚ್ಚಲು ಬಳಸುತ್ತವೆ. ಗಾಯಗಳು, ಮತ್ತು ಇತರ ಸಾವಯವ ಪದಾರ್ಥಗಳು, ರಾಳದ ಜಿಗುಟಾದ ಗುಣಲಕ್ಷಣವು ಅದನ್ನು ಉತ್ತಮ ಅಂಟಿಕೊಳ್ಳುವಂತೆ ಮಾಡುತ್ತದೆ. ಕೆಲವು ಇತರ ಪ್ರತಿಮೆ ವಸ್ತುಗಳಿಗೆ ಹೋಲಿಸಿದರೆ ಇದು ತುಂಬಾ ಹಗುರವಾಗಿರುತ್ತದೆ. ಅಂದರೆ ನೀವು ಅದನ್ನು ಒಂದು ಸ್ಥಳದಿಂದ ಇನ್ನೊಂದಕ್ಕೆ ಸುಲಭವಾಗಿ ಸಾಗಿಸಬಹುದು. ರಾಳವು ತುಂಬಾ ಅದ್ಭುತವಾಗಿದೆ. ನೀರಿನಲ್ಲಿ ಕರಗಲು ಅಸಮರ್ಥತೆಯಿಂದಾಗಿ ಪ್ರತಿಮೆಗಳನ್ನು ಎರಕಹೊಯ್ದಿದೆ, ರಾಳದ ಶಿಲ್ಪಗಳು ಅದ್ಭುತವಾದ ಗುಣವನ್ನು ಹೊಂದಿವೆ - ನೀವು ಅವುಗಳನ್ನು ಕಂಚು, ಕಲ್ಲು, ಅಮೃತಶಿಲೆ ಅಥವಾ ಪಿಂಗಾಣಿ ಇವುಗಳಲ್ಲಿ ಯಾವುದಾದರೂ ಮಾಡಿದ ಹಾಗೆ ಕಾಣುವಂತೆ ಮಾಡಬಹುದು. ಸ್ವಲ್ಪ ಸಮಯದೊಳಗೆ ನಮ್ಮ ಹೃದಯಗಳು. ಮತ್ತು ಈಗ ರಾಳವು ಪ್ರತಿಮೆಗಳು, ಪ್ರತಿಮೆಗಳು, ಪ್ರಶಸ್ತಿ ಪ್ರತಿಮೆಗಳು ಇತ್ಯಾದಿಗಳನ್ನು ಬಿತ್ತರಿಸಲು ನೆಚ್ಚಿನ ವಸ್ತುವಾಗಿದೆ. ನಿಮ್ಮ ನೆಚ್ಚಿನ ಪಾತ್ರದ ಪ್ರತಿಮೆಯನ್ನು ಬಿತ್ತರಿಸುವಾಗ ರಾಳಕ್ಕಿಂತ ಉತ್ತಮವಾದದ್ದೇನೂ ಇಲ್ಲ.",
-                 "ರಾಳದ ಉತ್ಪನ್ನಗಳು ಕಲಾತ್ಮಕ ದೃಷ್ಟಿಕೋನದಿಂದ ಅಪೇಕ್ಷಣೀಯವಾಗಿಸುವ ಅನೇಕ ಗುಣಗಳನ್ನು ಹೊಂದಿವೆ. ಅವುಗಳಲ್ಲಿ ಜಲ-ನಿರೋಧಕವು ಒಂದು. ಅವುಗಳನ್ನು ಹೇಗೆ ರಕ್ಷಿಸಬೇಕು ಎಂಬುದರ ಕುರಿತು ಕೆಲವು ತಂತ್ರಗಳನ್ನು ನೀವು ತಿಳಿದಿದ್ದರೆ ನೀವು ಸುಲಭವಾಗಿ ಉದ್ಯಾನದಲ್ಲಿ ನಿಮ್ಮ ನೆಚ್ಚಿನ ಪ್ರತಿಮೆಯನ್ನು ಹೊರಾಂಗಣದಲ್ಲಿ ಇರಿಸಬಹುದು. ಹಗುರವಾದ, ನೀವು ಅವುಗಳನ್ನು ಮನೆಯೊಳಗೆ ತರಬಹುದು"
-             ],
-    fr:["Les sculptures et les statues en résine sont des ajouts relativement nouveaux au monde statuaire. Les sculptures en résine tirent leur nom du matériau résine, qui est un composant organique combustible. Les statues en résine sont constituées de sécrétions végétales - un type de revêtement que les plantes utilisent pour guérir et recouvrir leur blessures et autres substances organiques. La caractérisation collante de la résine en fait également un excellent adhésif. Elle est également assez légère par rapport à certains autres matériaux de statue. Cela signifie que vous pouvez la transporter facilement d'un endroit à un autre. La résine est très idéale pour Les statues en résine sont coulées en raison de leur incapacité à se dissoudre également dans l'eau. Les sculptures en résine ont une qualité étonnante – vous pouvez leur donner l'impression qu'elles sont faites de l'un de ces éléments – bronze, pierre, marbre ou porcelaine. Les sculptures en résine se sont réchauffées. ",
-                 "Les produits en résine possèdent de nombreuses qualités qui les rendent désirables d'un point de vue artistique. La résistance à l'eau en fait partie. Vous pouvez facilement garder votre statue préférée à l'extérieur dans le jardin si vous connaissez quelques astuces pour la protéger. Comme elles sont assez léger, vous pouvez également les amener à l'intérieur"
-             ]
-           }
-
-        ]
-    },
-    {
         id:22,
         title: "Rosewood Mysuru",
         handle: "rosewood-mysuru",
@@ -1719,7 +1683,342 @@ const lang=[
            }
 
         ]
-    }
+    },
+    {
+        id:35,
+        title: "Banarasi Saree",
+        handle: "banarasi-saree",
+        image: 'banarasi-saree.jpg',
+        content:[
+           {
+            en:[
+                "The Banarasi saree, a symbol of elegance and tradition, hails from the ancient city of Varanasi (Banaras) in India. Renowned for its intricate designs and opulent fabric, the Banarasi saree is a staple in Indian bridal trousseau and festive wardrobes. This article delves into the history, craftsmanship, and cultural significance of the Banarasi saree, celebrating its enduring legacy. The origins of the Banarasi saree can be traced back to the Mughal era. When Persian and Indian cultures merged, the resulting textile art blossomed into the exquisite Banarasi weave we admire today. The Mughal influence is evident in the saree's motifs, which often feature intricate floral and foliate patterns, kalga and bel, as well as a string of upright leaves called jhallar."
+            ],
+    hi:["बनारसी साड़ी, एक लज्जता और परंपरा का प्रतीक, भारत के प्राचीन शहर वाराणसी (बनारस) से उत्पन्न है। इसके जटिल डिज़ाइन और धनी कपड़े के लिए प्रसिद्ध बनारसी साड़ी भारतीय दुल्हन की दहेज़ और त्योहारी कपड़ों में एक आवश्यक वस्त्र है। इस लेख में बनारसी साड़ी के इतिहास, शिल्पकला और सांस्कृतिक महत्व का खोज किया गया है, जो इसकी स्थायी विरासत का जश्न मनाता है। बनारसी साड़ी की उत्पत्ति को मुग़ल काल में खोजा जा सकता है। जब पारसी और भारतीय संस्कृतियों का मिलन हुआ, तो परिणामस्वरूप बुनाई कला उत्तेजित हुई, जो हम आज सराहते हैं। मुग़ल प्रभाव साड़ी के मोतीफ़ों में प्रतिभात है, जिनमें जटिल फूलों और पत्तियों के पैटर्न, कल्गा और बेल, साथ ही जहल्लर नाम के उभरे हुए पत्तियों की एक पंखुड़ियां शामिल होती हैं।"
+             ],
+    bn:["বানারসি শাড়ি, একটি শোভার এবং ঐতিহ্যের প্রতীক, প্রাচীন শহর ভারাণসী (বানারস) থেকে উত্পন্ন। এর অতিকঠিন ডিজাইন এবং ধনী বস্ত্রের জন্য বিখ্যাত বানারসি শাড়ি ভারতীয় বাইবাহিক পোষাক এবং উৎসবের জন্য একটি অপরিহার্য উড়িয়ে দেওয়া। এই নিবন্ধটি বানারসি শাড়ির ইতিহাস, শিল্পশৈলী এবং সাংস্কৃতিক গুরুত্বপূর্ণতার উপর অনুসন্ধান করে, এর চিরস্থায়ী পরিত্যাক্তির উদ্যাপন করে। বানারসি শাড়ির উৎপত্তি মুঘল যুগে খুঁজে পাওয়া যায়। পারসি এবং ভারতীয় সাংস্কৃতিদের মিশে, ফলে উত্তীর্ণ বানানী শিল্প ফুটে, যা আমরা আজ প্রশংসা করি। মুঘল প্রভাব শাড়ির মোটিফে প্রকাশ পায়, যা সোয়াচ্চার ফুল এবং পর্বতাকার আকৃতি, কলগা এবং বেল, এবং উপরে উঠানো পাতা নামে একটি সারিতে জলছায়া রয়েছে।"
+             ],
+    zn:["班纳拉斯（Banarasi）纱丽，象征着优雅和传统，源自印度古城瓦拉纳西（Banaras）。以其复杂的设计和奢华的面料闻名，班纳拉斯纱丽是印度新娘嫁妆和节日服饰的主打款式。本文深入探讨了班纳拉斯纱丽的历史、工艺和文化意义，庆祝其持久的传承"
+             ],
+    ta:["பனராசி சாரி, மிகவும் மார்க்க மற்றும் பாரம்பரியப் பத்துக்கும் சின்னமாக கூறப்படும், இந்தியாவின் பாரம்பரிய நகைச்சுவடிகளில் ஒன்றாகும். அதன் ஜடில் வடிவமைப்புகள் மற்றும் பண்பாட்டிற்கான வடிவம் போல, பனராசி சாரி இன்று நாம் புகழ்ந்து கொள்ளும் மிகவும் அருமையான பண்பாடு வளர்ச்சியைப் பெற்றது. பனராசி சாரியின் வரலாறு, கலைநிறைவு மற்றும் உயிர்முதலியில் நடந்து கொள்ளும் பொருளாதாரத்தை குறிக்கின்றது. பனராசி சாரியின் உத்பத்தியின் மூலங்கள் முகல் பருவமாகும்."
+             ],
+    te:["బనారసీ సారి, అందమైన నాణ్యత మరియు సాంప్రదాయంగా గుర్తించబడుతున్న, భారత ప్రాచీన నగరం వారాణసి (బనారస్) నుండి ప్రారంభమైనది. అది అందమైన డిజైన్‌తో మరియు ఆలంబరిత బట్టల కోసం గుర్తించబడుతున్న కపడాన్ని ప్రశంసిస్తున్న బనారసీ సారి భారతీయ పెళ్లి ఉపకరణాలు మరియు సంబరాల నుండి ఒక ముఖ్యమెయిన అంగం కావచ్చు. ఈ వ్యాసం బనారసీ సారి చరిత్ర, క్రాఫ్ట్‌మాన్‌షిప్, మరియు సాంస్కృతిక ప్రాముఖ్యతను ఆచరణ చేస్తుంది, ఆ చిరస్థాయి పరంపరను స్తుతించేందుకు దాగినది."
+             ],
+    kn:["ಬನಾರಸಿ ಸೀರೆ, ಲಾಜ್ಜತೆ ಮತ್ತು ಸಂಪ್ರದಾಯದ ಪ್ರತೀಕವಾಗಿದೆ, ಭಾರತದ ಪ್ರಾಚೀನ ನಗರ ವಾರಾಣಸಿ (ಬನಾರಸ್) ಯಿಂದ ಉತ್ಪನ್ನವಾಗಿದೆ. ಅದರ ಜಟಿಲ ರೂಪರೇಖೆಗಳು ಮತ್ತು ಧನ್ಯ ಬಟ್ಟಲುಗಳ ಕಾರಣ, ಬನಾರಸಿ ಸೀರೆ ಭಾರತೀಯ ವಧುವಿನ ಸ್ವರ್ಣಿಮಾಲೆಯೂ ಉತ್ಸವ ತೊಡಿಗೆಯ ಬಟ್ಟಲೂ ಆಗಿವೆ. ಈ ಲೇಖನದಲ್ಲಿ ಬನಾರಸಿ ಸೀರೆಯ ಇತಿಹಾಸ, ಶಿಲ್ಪ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಪ್ರಾಮುಖ್ಯತೆಯ ಬಗ್ಗೆ ಹೆಚ್ಚಿನ ತಿಳಿವಳಿಕೆಯನ್ನು ನೀಡುವಂತೆ ಮುಳುಗಿದೆ, ಅದರ ಚಿರಸ್ಥಾಯಿ ವಿರಾಸತ್ತನ್ನು ಸಂತೋಷಿಸುತ್ತದೆ."
+             ],
+    fr:["Le saree banarasi, symbole d'élégance et de tradition, trouve ses origines dans la ville ancienne de Varanasi (Banaras) en Inde. Connu pour ses designs intricats et ses tissus opulents, le saree banarasi est un incontournable dans la trousseau de mariage indien et les garde-robes festives. Cet article explore l'histoire, l'artisanat et la signification culturelle du saree banarasi, célébrant son héritage durable."
+             ]
+           }
+
+        ]
+    },
+    {
+        id:36,
+        title: "Resin Idols",
+        handle: "resin-idols",
+        image: 'resin-idols.jpg',
+        content:[
+           {
+            en:[
+                "Handmade resin idols have gained popularity for their intricate details, durability, and versatility. These exquisite pieces of art are used for religious purposes, home décor, and as collectibles. This article explores the fascinating world of handmade resin idols, highlighting their creation process, types, cultural significance, and modern adaptations.Handmade resin idols represent a unique fusion of artistic skill, cultural heritage, and modern innovation. These meticulously crafted pieces not only serve as decorative and religious artefacts but also tell stories of tradition, creativity, and adaptation. Whether as sacred symbols, artistic expressions, or personalised keepsakes, resin idols continue to captivate and inspire, making them cherished additions to any collection."
+            ],
+    hi:["हाथ से बनाए गए रेजिन मूर्तियाँ अपनी जटिल विवरण, टिकाऊता, और बहुमुखी उपयोगिता के लिए प्रसिद्ध हो गई हैं। ये उत्कृष्ट कला के टुकड़े धार्मिक उद्देश्यों, गृह सजावट, और संग्रह के रूप में प्रयोग किए जाते हैं। यह लेख हाथ से बनाई गई रेजिन मूर्तियों की रोचक दुनिया का अन्वेषण करता है, उनकी निर्माण प्रक्रिया, प्रकार, सांस्कृतिक महत्व, और आधुनिक अनुकूलन को उजागर करता है।"
+             ],
+    bn:["হাতে তৈরি রেজিন মূর্তিগুলি তাদের জটিল বিশদ, দীর্ঘশাশ্বত মধুরতা, এবং বহুমুখী ব্যবহারের জন্য জনপ্রিয়তা অর্জন করেছে। এই সুন্দর কৃতিগুলি ধর্মীয় উদ্দেশ্যে, বাড়ির সাজানোর জন্য, এবং সংগ্রহের মাধ্যমে ব্যবহৃত হয়। এই নিবন্ধটি হাতে তৈরি রেজিন মূর্তিগুলির আশ্চর্যজনক বিশ্বকে অন্বেষণ করে, তাদের নির্মাণ প্রক্রিয়া, প্রকার, সাংস্কৃতিক মর্যাদা, এবং আধুনিক অভিযানগুলির উজ্জ্বলতা দেখায়।"
+             ],
+    zn:[""
+             ],
+    ta:["கையேடு செய்யப்பட்ட ரெசின் உல்லியங்கள், அவற்றின் இன்ட்ரிகேட் விவரங்கள், நெடுவரிசையாக்கம் மற்றும் பல்வேறுபட்ட பயன்பாட்டுக்களுக்கான புகழை பெற்றுள்ளது. இந்த அழகான கலை உதாரணங்கள் மதம் போல, வீட்டு அலங்காரம், மற்றும் சேகரம் பயன்படுத்தப்படுகின்றன. இந்த கட்டுரை கையேடு செய்யப்பட்ட ரெசின் உல்லியங்களின் அருமருந்திய உலகத்தை ஆராய்ந்து, அவற்றின் உருவாக்கும் செயல்பாடு, வகைகள், கலாச்சாரம் மற்றும் அதிக உத்தியை எதிர்கொள்ளுகின்றன."
+             ],
+    te:["హస్తంతారాలు తయారు చేసిన రెజిన్ మూర్తులు లోపాలు, తొలగించడానికి, మరియు వివిధ విధానాల కోసం ప్రాధాన్యత పొందింది. ఈ అమూల్య కళలు ధార్మిక ఉద్దేశాలకు, ఇంటి ఆకృతులకు మరియు కలెక్టిబుల్లరాయినంతి ఉపయోగిస్తాయి. ఈ వ్యాసం హస్తంతారాలు తయారు చేసిన రెజిన్ మూర్తుల అద్భుత ప్రపంచాన్ని అన్వేషిస్తుంది, అవి నిర్మాణ ప్రక్రియ, రకాలు, సాంస్కృతిక మహత్వాన్ని ఎక్కువగా గుర్తించడం, మరియు ఆధునిక అనుకూలనలను హైలైట్ చేస్తుంది."
+             ],
+    kn:["ಕೈಗಾರಿಕವಾಗಿ ತಯಾರಿಸಲಾದ ರೆಜಿನ್ ಮೂರ್ತಿಗಳು ಅವುಗಳ ಜಟಿಲ ವಿವರಗಳು, ಶಾಶ್ವತ ಪ್ರತಿಸ್ಥಾಪನೆ ಮತ್ತು ಬಹುಮುಖೀ ಬಳಕೆಯ ಹೆಚ್ಚುತ್ತಾ ಪ್ರಸಿದ್ಧವಾಗಿವೆ. ಈ ಅದ್ಭುತ ಕಲೆಯ ಹಾಸ್ಯಾಸ್ಪದದ ಪ್ರವರ್ತನೆಯನ್ನು, ಪ್ರಕಾರಗಳನ್ನು, ಸಾಂಸ್ಕೃತಿಕ ಮಹತ್ತ್ವವನ್ನು ಮತ್ತು ಆಧುನಿಕ ಅನುಕೂಲನಗಳನ್ನು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತದೆ ಈ ಲೇಖನ."
+             ],
+    fr:["Les idoles en résine faites à la main ont gagné en popularité pour leurs détails complexes, leur durabilité et leur polyvalence. Ces pièces d'art exquises sont utilisées à des fins religieuses, de décoration intérieure et comme objets de collection. Cet article explore le monde fascinant des idoles en résine faites à la main, mettant en lumière leur processus de création, leurs types, leur importance culturelle et leurs adaptations modernes."
+             ]
+           },
+        ]
+    },
+    {
+        id:37,
+        title: "Blue Pottery",
+        handle: "blue-pottery",
+        image: 'blue-pottery.jpg',
+        content:[
+           {
+            en:[
+                "Blue Pottery, an exquisite and distinctive craft, hails from the vibrant city of Jaipur, Rajasthan. Known for its mesmerising blue hues and intricate designs, this craft has become synonymous with Jaipur's rich cultural heritage. This article explores the history, unique features, creation process, and contemporary significance of Blue Pottery, celebrating its enduring charm. Blue Pottery traces its origins to Persia (modern-day Iran) and was brought to India by Mughal artisans. It gained prominence in Jaipur during the 19th century under the patronage of Maharaja Sawai Ram Singh II, who invited skilled craftsmen to the region. Over time, the craft was adapted and refined, incorporating local artistic elements to create the distinctive Blue Pottery of Jaipur. Blue Pottery has evolved to remain relevant in modern times, finding new expressions and applications while preserving its traditional essence."
+            ],
+    hi:["नीले मिटटी, एक उत्कृष्ट और विशिष्ट शिल्प, राजस्थान के जीवंत शहर जयपुर से उत्पन्न है। इसकी मोहक नीली रंगों और जटिल डिज़ाइनों के लिए प्रसिद्ध है, यह शिल्प जयपुर की समृद्ध सांस्कृतिक विरासत के साथ जुड़ चुका है। यह लेख नीली मिटटी के इतिहास, अनूठी विशेषताएँ, निर्माण प्रक्रिया, और समकालीन महत्व का अन्वेषण करता है, जो इसकी स्थायी चार्म की प्रशंसा करता है। नीली मिटटी की उत्पत्ति पर्शिया (आधुनिक इरान) तक जाती है और इसे मुघल कलाकारों ने भारत में लाया। इसे 19वीं सदी में महाराजा सवाई राम सिंह II के पात्रता के तहत जयपुर में प्रमुखता प्राप्त हुई, जिन्होंने कुशल शिल्पकारों को क्षेत्र में आमंत्रित किया। समय के साथ, शिल्प को समायोजित और परिष्कृत किया गया, स्थानीय कलात्मक तत्त्वों को शामिल करते हुए जयपुर की विशिष्ट नीली मिटटी बनाई गई। नीली मिटटी को आधुनिक समय में प्रासंगिक बनाने के लिए विकसित किया गया है, जिसमें नए अभिव्यक्तियों और उपयोगों को खोजा गया है जबकि इसकी पारंपरिक सारंगता को संरक्षित रखा गया है।"
+             ],
+    bn:["ব্লু পটারি, একটি বিশেষ এবং আকর্ষনীয় শিল্প, প্রাণবন্ত জয়পুর, রাজস্থানের সেথে সম্পর্কিত। এর মোহনীয় নীল রঙের এবং জটিল নকশার জন্য পরিচিত, এই শিল্পটি জয়পুরের ধনী সাংস্কৃতিক ঐতিহ্যের সাথে জড়িত হয়েছে। এই নিবন্ধে ব্লু পটারির ইতিহাস, অনন্য বৈশিষ্ট্য, সৃষ্টি প্রক্রিয়া, এবং বর্তমান গুরুত্বপূর্ণতা নিরীক্ষণ করা হয়, যা এর চিরস্থায়ী আকর্ষণ উদয়ন করে। ব্লু পটারির উৎপত্তি পার্শিয়া (আধুনিক ইরান) এর দিকে ফিরে যায় এবং মুঘল শিল্পজনদের দ্বারা ভারতে নিয়ে আসা হয়েছিল। ১৯শ শতাব্দীতে মহারাজা সওয়াই রাম সিং II এর সহায়তায় জয়পুরে এটি গৌরব লাভ করে, যিনি দক্ষ শিল্পীদেরকে অঞ্চলে আমন্ত্রিত করেন। সময়ের সাথে, শিল্পটি সংযোজিত এবং সংশোধিত হয়েছিল, নোটি উপাত্ত বিন্যাস করে জয়পুরের বিশেষ ব্লু পটারি তৈরি করতে। ব্লু পটারি আধুনিক সময়ের মধ্যে প্রাসঙ্গিক থাকার জন্য বিকসিত হয়েছে, নতুন অভিব্যক্তি এবং ব্যবহার খুঁজছে, সাথে তার ঐতিহাসিক সার সংরক্ষণ করা হচ্ছে।"
+             ],
+    zn:[""
+             ],
+    ta:["நீலப் பானை, ஒரு மிகவும் அழகான மற்றும் விதவிதமான கையேந்தல், ராஜஸ்தானின் சிறந்த நகரம் ஜைப்பூரிலிருந்து வந்தது. அதன் மயக்கமான நீலப் பின்னிரல்களும் மிகவும் சிகரமான வடக்கோடுகளும் பற்றி அறியப்படுகின்றன, இந்த கையேந்தல் ஜைப்பூரின் பெருந்தன்மையான கலாச்சாரத்துடன் சம்பந்தம் கொண்டுள்ளது. இந்த கட்டுரை நீலப் பானையின் வரலாறு, உன்னத அம்சங்கள், உருவாக்கும் செயல்பாடு, மற்றும் சமகாலீன முக்கியத்தை அறிய, அதன் தொடர்ச்சியான அழகுக்கை புகழ்கிறது. நீலப் பானையின் உத்பத்தி பெர்ஷியா (நவீன ஈரான்) குடியேற்றியில் இருந்தது மற்றும் முகள் படையர்கள் இந்தியாவிற்கு கொண்டுவந்தனர். 19ஆம் நூற்றாண்டில் மகாராஜா சவாய் ராம் சிங் II அவர்களின் ஆதரவின் கீழ் ஜைப்பூரில் குணமாக பிரமுகமானது, அநுக்கரப்படுத்திய கையேந்தர்களை அருகில் அழைத்துவரும் காலத்தில் அமைந்தது. காலக்கோடுகளுக்கு மீண்டும், இந்த கையேந்தல் அனுபவிப்பதற்கு ஏற்ப வேலை செய்ய மாற்றம் கொண்டு வந்தது, இது உத்தியை பராமரிக்கின்றது மற்றும் அதன் பாரம்பரிய உச்சக்களை பாதுகாக்குகின்றது."
+             ],
+    te:["నీల పాటరీ, ఒక అద్భుతమైన మరియు విశిష్ట కొంచెళ్ళిన క్రాఫ్ట్, రాజస్థాన్ యొక్క జీవంత నగరం జయపుర్ నుండి వచ్చింది. అతని ఆకర్షణీయమైన నీల రంగులు మరియు జటిల రూపకలాల కోసం గుర్తించబడుతుంది, ఈ క్రాఫ్ట్ జయపూర్ యొక్క సమృద్ధ సాంస్కృతిక వారసత్తో పరిపూర్ణంగా చేరుకుంటుంది. ఈ వ్యాసం నీల పాటరీ యొక్క చరిత్ర, అనోఖి విశేషాలు, సృష్టి ప్రక్రియ, మరియు సమకాలీన ప్రాముఖ్యతను అవలోకిస్తుంది, అది ఆత్మిక ఆకర్షణాన్ని ప్రశంసిస్తుంది. నీల పాటరీ పరిచయం పార్షియా (సమస్తదేశ ఈరాన్) నాకు కనుగొనబడుతుంది మరియు అది ముఘల్ కళాకారుల ద్వారా భారతకు తీసుకోబడింది. 19వ శతాబ్దంలో మహారాజ సవాయి రామ్ సింగ్ II పట్టణంలో అభివృద్ధి చేయడానికి మహత్తున్నపరిచయం అవుతుంది, అలాగే తెలంగాణ ప్రాంతంలో నిపుణులు ప్రవేశించడం ద్వారా. సమయం చాలాకాలంగా మారింది, ఈ క్రాఫ్ట్ అనుకూలంగా ఉండాలని స్వీకరించేందుకు అభివృద్ధి చేయబడింది, పోసించే సమయంలో అనుకూలాలు మరియు అప్లికేషన్‌లను కనుగొనించాలని నీల పాటరీ వికసించబడింది, పారంపరిక సార్వజనికతను కాపాడింది."
+             ],
+    kn:["ನೀಲ ಪಾಟರಿ, ಒಂದು ಅತ್ಯಂತ ಉತ್ಕೃಷ್ಟ ಮತ್ತು ವಿಶಿಷ್ಟ ಕ್ರಾಫ್ಟ್, ರಾಜಸ್ಥಾನದ ಜಿಜ್ಜಾವನ್ನು ವಿವಿಧ ಹೊಸ ನಗರದಿಂದ ಬರಮಾಡಲಾಯಿತು. ಇದರ ಮೋಹಕ ನೀಲಿ ಬಣ್ಣಗಳು ಮತ್ತು ಜಟಿಲ ರೂಪಕಲಾಶ್ಚರ್ಯಕರ ನಕ್ಷೆಗಳಿಗಾಗಿ ಗುರುತಿಸಲ್ಪಟ್ಟಿರುತ್ತದೆ, ಈ ಕ್ರಾಫ್ಟ್ ಜಯಪುರ ಹಿರಿಯ ಸಾಂಸ್ಕೃತಿಕ ವಿರಾಸತ್ತೊಂದಿಗೆ ಜೊತೆಗೂಡಿದೆ. ಈ ಲೇಖನ ನೀಲ ಪಾಟರಿಯ ಇತಿಹಾಸ, ಅಪರಿಹಾರ್ಯ ವಿಶೇಷಗಳು, ರಚನೆ ಪ್ರಕ್ರಿಯೆ, ಮತ್ತು ಸಮಕಾಲೀನ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಅನ್ವೇಷಿಸುತ್ತದೆ, ಅದರ ಸ್ಥಾಯಿ ಮೋಹಕತ್ವವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ. ನೀಲ ಪಾಟರಿಯ ಉತ್ಪತ್ತಿಯನ್ನು ಪರ್ಷಿಯಾ (ಆಧುನಿಕ ಈರಾನ್) ನಿಂದ ಹೊರಬಂದಿತು ಮತ್ತು ಮುಘಲ್ ಕಲೆಗಾರರ ದ್ವಾರಾ ಭಾರತಕ್ಕೆ ತರಲಾಯಿತು. 19ನೇ ಶತಮಾನದಲ್ಲಿ ಮಹಾರಾಜ ಸವಾಯ್ ರಾಮ್ ಸಿಂಗ್ II ಅವರ ಪಾತ್ರತ್ಯದ ಅಡಿಯಲ್ಲಿ ಜಯಪುರದಲ್ಲಿ ಹೆಚ್ಚಿನ ಪ್ರಮುಖತೆಯನ್ನು ಗಳಿಸಿ, ಆ ಹೊಸ ಅಡಿಯಲ್ಲಿ ಮಾಹಿತಿಯನ್ನು ಆಹ್ವಾನಿಸಿದ ಕೈಯಾರಗಳನ್ನು ಆಹ್ವಾನಿಸಿದರು. ಸಮಯದಿಂದ ಸಮಯಕ್ಕೆ, ಈ ಕ್ರಾಫ್ಟ್ ಅನುಕೂಲವಾಗಿ ಇರಬೇಕೆಂದು ಬೆಳೆದಿದ್ದಾರೆ, ಹೊಸ ಅಭಿವ್ಯಕ್ತಿಗಳು ಮತ್ತು ಅನ್ವಯಗಳನ್ನು ಹುಡುಕುತ್ತಿರುತ್ತಾ ಪಾರಂಪರಿಕ ಸಾರವನ್ನು ಸಂರಕ್ಷಿಸುತ್ತಾ ನೀಲ ಪಾಟರಿ ಬೆಳೆಸಿದೆ."
+             ],
+    fr:["La poterie bleue, un artisanat exquis et distinctif, provient de la ville animée de Jaipur, au Rajasthan. Connu pour ses teintes bleues envoûtantes et ses designs complexes, cet artisanat est devenu synonyme du riche patrimoine culturel de Jaipur. Cet article explore l'histoire, les caractéristiques uniques, le processus de création et la signification contemporaine de la poterie bleue, célébrant son charme durable. La poterie bleue trouve son origine en Perse (l'Iran moderne) et a été apportée en Inde par les artisans moghols. Elle a pris de l'importance à Jaipur au XIXe siècle sous le patronage du maharaja Sawai Ram Singh II, qui a invité des artisans qualifiés dans la région. Au fil du temps, l'artisanat a été adapté et affiné, incorporant des éléments artistiques locaux pour créer la poterie bleue distinctive de Jaipur. La poterie bleue a évolué pour rester pertinente à l'époque moderne, trouvant de nouvelles expressions et applications tout en préservant son essence traditionnelle."
+             ]
+           }
+
+        ]
+    },
+    {
+        id:38,
+        title: "Phulkari",
+        handle: "phulkari",
+        image: 'phulkari.jpg',
+        content:[
+            {
+                en:[
+                    "Phulkari, meaning 'flower work,' is a traditional embroidery art form from the Punjab region of India and Pakistan. Known for its vibrant colours and intricate patterns, Phulkari is not just a craft but a symbol of Punjabi culture and heritage. This article delves into the history, techniques, cultural significance, and contemporary relevance of Phulkari, showcasing its timeless beauty. Phulkari has a rich history that dates back to the 15th century, with its origins rooted in the folklore and daily life of Punjab. Traditionally, Phulkari was practised by women in rural areas who would embroidered shawls and garments for personal use, dowries, and special occasions. The craft saw a resurgence in the 19th century, becoming an integral part of Punjabi identity and heritage. Phulkari has historically been a medium for women to express their creativity and social status. Each piece tells a story, reflecting the artist's personal experiences, environment, and emotions."
+                ],
+        hi:["फुलकारी, जिसका अर्थ है 'फूलों का काम,' भारत और पाकिस्तान के पंजाब क्षेत्र से एक पारंपरिक कढ़ाई कला है। अपने जीवंत रंगों और जटिल पैटर्न के लिए जाना जाता है, फुलकारी केवल एक शिल्प ही नहीं है बल्कि पंजाबी संस्कृति और विरासत का प्रतीक है। यह लेख फुलकारी के इतिहास, तकनीक, सांस्कृतिक महत्व, और समकालीन महत्व में खोज करता है, जो इसकी अविनाशी सुंदरता को प्रदर्शित करता है।"
+                 ],
+        bn:['ফুলকারি, অর্থ হল "ফুলের কাজ," ভারত ও পাকিস্তানের পাঞ্জাব অঞ্চল থেকে একটি ঐতিহাসিক সুতা কাজের আকৃতি। তার প্রকৃতির উদ্ভব পাঞ্জাবের লোককাহিনী এবং দৈনন্দিন জীবনের মধ্যে স্থির।'
+                 ],
+        zn:[""
+                 ],
+        ta:['புல்காரி, அர்த்தம் "மலர் வேலை," இந்தியா மற்றும் பாகிஸ்தானின் பஞ்சாப் பகுதியில் ஒரு பாரம்பரிய எழுச்சி கலையாகும். அதன் உண்மையான தலைவர்கள் பஞ்சாபின் கதைகளையும், பஞ்சாப் உரிமையையும் வெளிப்படுத்துகின்றனர்.'
+                 ],
+        te:['ఫుల్కారి, "పువ్వు పని" అని అర్థం, భారత మరియు పాకిస్తాన్ యొక్క పంజాబ్ ప్రాంతంలో ఉన్న సాంప్రదాయక ఎమ్బ్రాయ్డరీ కళ. అతని మూలాలు పంజాబ్ లో కథల మరియు రోజువారి జీవితంలో ఉన్నప్పటికీ ఉంటాయి.'
+                 ],
+        kn:[`ಫುಲ್ಕಾರಿ, ಅರ್ಥ "ಹೂವು ಕೆಲಸ," ಭಾರತ ಮತ್ತು ಪಾಕಿಸ್ತಾನದ ಪಂಜಾಬ್ ಪ್ರದೇಶದಿಂದ ಬಂದಿದೆ. ತುಂಬಿದ ಬಣ್ಣಗಳು ಮತ್ತು ಜಟಿಲ ನಮೂನೆಗಳಿಗಾಗಿ ಗುರುತಿಸಲಾಗಿದೆ, ಫುಲ್ಕಾರಿ ಕೇವಲ ಕ್ರಾಫ್ಟ್ ಅಲ್ಲ, ಪಂಜಾಬಿ ಸಂಸ್ಕೃತಿ ಮತ್ತು ವಿರಾಸತ್ತಿನ ಚಿಹ್ನೆಯಾಗಿದೆ.`
+                 ],
+        fr:[    `Le phulkari, qui signifie "travail floral", est une forme d art de la broderie traditionnelle originaire de la région du Pendjab en Inde et au Pakistan. Connu pour ses couleurs vives et ses motifs complexes, le phulkari n'est pas seulement un métier mais aussi un symbole de la culture et du patrimoine punjabi. Cet article explore l'histoire, les techniques, la signification culturelle et la pertinence contemporaine du phulkari, mettant en valeur sa beauté intemporelle.`                 ]
+               }
+
+        ]
+    },
+    {
+        id:39,
+        title: "Pashmina shawls",
+        handle: "pashmina-shawls",
+        image: 'pashmina-shawls.jpg',
+        content:[
+           {
+            en:[
+                'Pashmina shawls, renowned for their exceptional softness, warmth, and intricate craftsmanship, have been a hallmark of Kashmiri culture for centuries. These luxurious shawls are made from the finest pashm wool, sourced from the undercoat of Changthangi goats found in the high-altitude regions of the Himalayas. In this article, we delve into the history, craftsmanship, and cultural significance of Pashmina shawls, highlighting their unique qualities that make them a prized possession worldwide. Pashmina shawls have a rich history that dates back to the 15th century when they were first woven in Kashmir. The word "Pashmina" is derived from the Persian word "pashm," meaning wool. The craft gained prominence during the Mughal era, with Emperor Akbar being a notable patron. These shawls were considered a symbol of luxury and were often exchanged as gifts among royalty.'
+            ],
+    hi:['पश्मीना शॉल, उनकी असाधारण मुलायमता, गरमी और जटिल शिल्पकला के लिए प्रसिद्ध, कश्मीरी संस्कृति का एक प्रतीक हैं जो कई शताब्दियों से है। ये विलासी शॉल उत्कृष्ट पश्म ऊन से बनाए जाते हैं, जो हिमालय के उच्च ऊचाई क्षेत्रों में पाए जाने वाले चांगथांगी बकरियों की तंतु से लिया जाता है। इस लेख में, हम पश्मीना शॉल के इतिहास, शिल्पकला, और सांस्कृतिक महत्व में खोज करते हैं, जो उनके अनूठे गुणों को हाइलाइट करता है जो उन्हें विश्वभर में मूल्यवान संपत्ति बनाते हैं। पश्मीना शॉलों का एक धनी इतिहास है जो 15 वीं सदी में कश्मीर में पहली बार बुने गए थे। "पश्मीना" शब्द पर्शियन शब्द "पश्म" से लिया गया है, जो ऊन को दर्शाता है। यह कला मुग़ल काल में महत्वपूर्ण हुई, जहां सम्राट अकबर एक प्रमुख प्रायोजक थे। ये शॉल विलासी के प्रतीक माने गए और अक्सर शासकीय परिवारों के बीच भेजे जाते थे।'
+             ],
+    bn:['পাশমিনা শল, তাদের অসাধারণ মৃদুতা, গরমতা এবং জটিল শিল্পকলা জন্য প্রসিদ্ধ, কশ্মীরি সংস্কৃতির একটি প্রতীক, এখনও শতকের জন্য হয়েছে। এই প্রাচীনিক শলগুলি বিশেষজ্ঞতা সম্পন্ন পাশ্ম দুধ থেকে তৈরি হয়, যা হিমালয়ের উচ্চ উচ্চতা এলাকাগুলিতে পাওয়া চাংথাংগি ছাগল থেকে সংগ্রহ করা হয়। এই নিবন্ধে, আমরা পাশমিনা শলের ইতিহাস, শিল্পকলা এবং সাংস্কৃতিক গুরুত্ব পর্যবেক্ষণ করি, এটির অনন্য গুণগুলির চিহ্নিত করি যা তাদেরকে বিশ্বব্যাপী প্রতিষ্ঠিত সম্পত্তি করে।'
+             ],
+    ta:['பஷ்மீனா ஷால்ஸ், அவர்களின் அதிர்ஷ்டமான மெல்லியான மீன்கள், உயர்ந்த சக்தியும், மற்றும் ஜடில் கற்பனைக்கான கலைக்களஞ்சியம், காஷ்மீரிய கலாச்சாரத்தின் ஒரு சின்னமானது. இந்த பரிணாமப் பரியேற்றங்களான ஷால்கள் பரியாசமான பஷ்ம் ஆல் உயிர்களில் கண்டிப்பாகும் சாங்தாங்கி ஆடுகளிடமிருந்து அருகில் உள்ள நடுநிலை பருவத்தில் பெறப்படுகின்றன. இந்த கட்டுரையில், பஷ்மீனா ஷால்ஸ் பரம்பரை, கலைநிறைய மற்றும் சார்ந்த கலையின் வரலாறுகளைச் சரிசெய்யும் வரைபடத்தில் அடிப்படையானது, உலகளாவியமாக மதிக்கப்படும் அவற்றின் புதிய உண்மைகளை மூடுகின்றது.'
+             ],
+    te:['పశ్మీనా షాల్స్, అవిని అతి మృదువు, ఉష్ణత మరియు జటిల కొన్ని కొన్నిదిని ప్రతీకించినట్లు, కాష్మీరీ సంస్కృతిలో అనేక శతాబ్దాల ముందు కనిపించినవి. ఈ లక్షణములుగల షాల్స్ భారీ పశ్మ్ వూలుతో తయారు చేయబడింది, దక్షిణ హిమాలయం పర్వత ప్రాంతాల్లో కనిపించే చాంగ్థాంగి మేక్ గోట్ల అండర్ కోట్ నుండి సంగ్రహించబడేవి. ఈ వ్యాసంలో, మా ఆర్టికల్లో, పశ్మీనా షాల్స్ చరిత్ర, క్రాఫ్ట్ మరియు సాంస్కృతిక ప్రాముఖ్యతను అన్వేషిస్తుంది, అవి ప్రపంచవ్యాప్తంగా శ్రేయస్సులు పొందే అవిష్కరించిన అంశాలను హైలైట్ చేస్తుంది.'
+             ],
+    kn:['ಪಶ್ಮೀನಾ ಶಾಲ್‌ಗಳು, ಅವುಗಳ ಅತ್ಯುತ್ತಮ ಮೃದುತ್ವ, ಉಷ್ಣತೆ ಮತ್ತು ಜಟಿಲ ಶಿಲ್ಪಕಲೆಗಳ ಕೆಲವು ಪ್ರತೀಕಗಳಾಗಿವೆ, ಶತಮಾನಗಳಿಂದ ಕಶ್ಮೀರದ ಸಂಸ್ಕೃತಿಯ ಘಟ್ಟ. ಈ ವಿಲಾಸಯುತ ಶಾಲುಗಳು ಅತ್ಯುತ್ತಮ ಪಶ್ಮ್ ಉನ್ನದಿಂದ ತಯಾರಾಗಿವೆ, ಹಿಮಾಲಯದ ಉಚ್ಚ ಎತ್ತರಗಳ ಪ್ರದೇಶಗಳಲ್ಲಿ ಕಂಡುಬರುವ ಚಾಂಗ್‌ಥಾಂಗಿ ಆಟಗಳ ಅಡಿಕೆಯಿಂದ ತೆಗೆದುಕೊಳ್ಳಲಾಗುತ್ತದೆ. ಈ ಲೇಖನದಲ್ಲಿ, ನಾವು ಪಶ್ಮೀನಾ ಶಾಲ್‌ಗಳ ಇತಿಹಾಸ, ಶಿಲ್ಪಕಲೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಅನ್ವೇಷಿಸುತ್ತೇವೆ, ಅವುಗಳ ವಿಶೇಷ ಗುಣಗಳನ್ನು ಹೆಚ್ಚಿನವರನ್ನು ಕೊಡುವ ಪ್ರಸಿದ್ಧತೆಯನ್ನು ಮುದ್ರಿಸುತ್ತೇವೆ.'
+             ],
+    fr:["Les châles en pashmina, réputés pour leur douceur exceptionnelle, leur chaleur et leur artisanat complexe, sont depuis des siècles un symbole de la culture cachemirienne. Ces châles luxueux sont fabriqués à partir de la meilleure laine de pashm, provenant de la sous-couche des chèvres Changthangi trouvées dans les régions de haute altitude de l'Himalaya. Dans cet article, nous plongeons dans l'histoire, l'artisanat et la signification culturelle des châles en pashmina, mettant en lumière leurs qualités uniques qui en font une possession prisée dans le monde entier."
+             ]
+           }
+
+        ]
+    },
+    {
+        id:40,
+        title: "Sitara Bag",
+        handle: "sitara-bag",
+        image: 'sitara-bag.jpg',
+        content:[
+           {
+            en:[
+                'Sitara bags are designed to empower and uplift women, while also being kind to the planet. Made with high-quality eco-friendly materials, Sitara bags are both stylish and sustainable. They are the perfect way to add a touch of luxury and sophistication to your everyday styling. Whether you are looking for a new bag for work, school, travel, or special occasions, Sitara has something for everyone. Be a star with Sitara! What makes Sitara bags special? Women-centric: Sitara bags are designed specifically for women. The bags are stylish, functional, and comfortable to carry. Captivating design prints:Sitara bags are known for their unique and captivating design prints. The prints are inspired by the latest fashion trends and are sure to turn heads. Premium quality:Sitara bags are made with high-quality eco-friendly materials and are completely handcrafted by skilled artisans. This ensures that your bag is durable, long-lasting, and will always complement your style.'
+            ],
+    hi:['सितारा बैग्स महिलाओं को सशक्त और उत्थान करने के लिए डिज़ाइन किए गए हैं, साथ ही पर्यावरण के प्रति भी मेहरबान। उच्च गुणवत्ता के पर्यावरण-मैत्री उत्पादों के साथ बनाए गए, सितारा बैग्स स्टाइलिश और पर्यावरण-सहज हैं। ये आपके रोज़मर्रा के स्टाइलिंग में लगातार एक शानदारी और उच्च अत्याधुनिकता जोड़ने का उत्तम तरीका है। क्या आप काम, स्कूल, यात्रा या विशेष अवसर के लिए नए बैग की तलाश में हैं, सितारा के पास सब कुछ है। सितारा के साथ सितारा बनें!'
+             ],
+    bn:["সিতারা ব্যাগগুলি মহিলাদের শক্তিশালী ও উন্নত করার জন্য উদ্ভাবিত এবং পৃথিবীকে ভালোবাসায় নম্র করার জন্য ডিজাইন করা হয়েছে। উচ্চ মানের পরিবেশবান্ধব উপাদানসহ তৈরি করা, সিতারা ব্যাগগুলি স্টাইলিশ এবং টেকনোলজি-বিশৃদ্ধ। এটি আপনার দৈনন্দিন স্টাইলিংকে প্রিমিয়াম এবং সুবিধাজনকভাবে যুক্ত করার উত্তম উপায়। আপনি কাজ, স্কুল, ভ্রমণ বা বিশেষ অনুষ্ঠানের জন্য নতুন ব্যাগ খুঁজছেন কি তা নির্ধারণ করতে, সিতারা কিছু বিশেষ রয়েছে। সিতারা সঙ্গে এক স্টার হোন!"
+             ],
+    ta:["சித்தாரா பைக்குகள் பெண்களை வலுப்படுத்தி மற்றும் உலகத்தில் நன்கு பாதுகாப்பானவை ஆக வைத்துக் கொள்கின்றன. உயிர்ந்த நாயகர்களால் செயல்படுகின்ற உத்தம கட்டுப்பாடுகள், சித்தாரா பைக்குகள் நவீன அலைகளில் இருந்து பிரேக்ஷகர்களை முன்னெடுக்கின்றன. பிரீமியம் தரமான பரிமாண சித்தாரா பைக்குகள் உயிர்ந்த வாங்கியார்களால் முதலில் உருவாக்கப்பட்டு, நீங்கள் இருந்தும், வாழ்நாளில் உங்கள் திருப்பதியை மெகாதித்துவம் மற்றும் சொந்தப்படுத்த அனுமதிக்கும்."
+             ],
+    te:["సితారా బ్యాగ్‌లు మహిళలను శక్తిగా చేసుకుంటాయి మరియు ప్రపంచంలో ప్రకృతికి మెహరబానియుగా ఉంటాయి. అందమైన గుణాల పరిపూర్ణ పరిసర-స్నేహిత ఉపకరణాలు, సితారా బ్యాగ్‌లు లేదా స్పర్ధల అల్లర్లోనూ ప్రేమించబడతాయి. ఇవి మీ రోజువారీ శైలికి ఏక ప్రీమియం మరియు విలక్షణతను జోడించడానికి ఉత్తమ మార్గము. మీరు ఉద్యోగం, పాఠశాల, ప్రయాణం లేదా ప్రత్యేక సందర్భాలకు కొత్త బ్యాగ్ కోసం కనుగొనుటకు, సితారా మీకు ఏమిచ్చుకున్నాయి."
+             ],
+    kn:["ತಾರಾ ಬ್ಯಾಗ್‌ಗಳು ಮಹಿಳೆಯರನ್ನು ಶಕ್ತಿಯಿಂದ ಬಲಪಡಿಸುವುದು ಮತ್ತು ಪ್ರಪಂಚಕ್ಕೆ ದಯಾಮಯವಾಗಿರುವುದು. ಉನ್ನತ ಗುಣಮಟ್ಟದ ಪರಿಸರದಲ್ಲಿ ನಿರ್ಮಿತ ಉತ್ತಮ ಸಾಮಗ್ರಿಗಳು, ಸಿತಾರಾ ಬ್ಯಾಗ್‌ಗಳು ಪ್ರೀಮಿಯಂ ಮತ್ತು ಸುಲಭವಾಗಿ ಉಪಯೋಗಿಸಬಹುದಾಗಿದೆ. ಇವು ನಿಮ್ಮ ದೈನಂದಿನ ಶೈಲಿಗೆ ಗೌರವವನ್ನು ಸೇರಿಸುವ ಸುಂದರವೂ ಲುಕನ್ನು ಬಾಳುವಂತೆ ಮಾಡುತ್ತವೆ. ನೀವು ಕೆಲಸ, ಶಾಲೆ, ಪ್ರಯಾಣ ಅಥವಾ ವಿಶೇಷ ಸಂದರ್ಭಗಳಿಗಾಗಿ ಹೊಸ ಬ್ಯಾಗ್‌ಗಳನ್ನು ಹುಡುಕುತ್ತಿದ್ದರೆ, ಸಿತಾರಾ ನಿಮಗೆ ಏನೇನೋ ಇದೆ."
+             ],
+    fr:["Les sacs Sitara sont conçus pour autonomiser et élever les femmes, tout en étant bienveillants envers la planète. Fabriqués avec des matériaux écologiques de haute qualité, les sacs Sitara sont à la fois élégants et durables. Ils sont le moyen parfait d'ajouter une touche de luxe et de sophistication à votre style quotidien. Que vous recherchiez un nouveau sac pour le travail, l'école, les voyages ou les occasions spéciales, Sitara a quelque chose pour tout le monde. Soyez une star avec Sitara!"
+             ]
+           }
+
+        ]
+    },
+    {
+        id:41,
+        title: " Leather Bags",
+        handle: "leather-bags",
+        image: 'leather-bags.jpg',
+        content:[
+           {
+            en:[
+                `Sitara Leather bags are handcrafted from the finest quality genuine leather by skilled artisans. Each bag is a unique work of craftwork and is designed to last for many years to come. They are the perfect way to add a touch of luxury and sophistication to your everyday life. Whether you are looking for a new bag for work, school, travel, or special occasions, Sitara has something for everyone.
+
+                What makes Sitara Leather bags so special?
+                Pure leather: Sitara bags are made from 100% genuine leather, no PU or artificial leather. This means that your bag will be durable, long-lasting, and will only get better with age.
+                Premium quality: Sitara bags are made with the highest quality materials and construction. This ensures that your bag will be both stylish and functional.
+                Completely handcrafted: Each Sitara bag is completely handcrafted by skilled artisans. This means that you can be sure that your bag will give you an amazing experience.`
+            ],
+    hi:[`सितारा चमड़े के थेले कुशल कारीगरों द्वारा उत्कृष्ट गुणवत्ता के असली चमड़े से हस्तनिर्मित हैं। प्रत्येक थेला एक अनूठा कारीगरी का काम है और बहुत सालों तक चलने के लिए डिज़ाइन किया गया है। ये आपके प्रतिदिन के जीवन में शोभा और परिष्कृतता का एक स्पर्श जोड़ने का सही तरीका है।`
+             ],
+    bn:[`সিতারা চামড়ার ব্যাগগুলি দক্ষ শিল্পীদের দ্বারা শ্রেষ্ঠ গুণমানের অসল চামড়া থেকে হ্যান্ডক্রাফট করা হয়। প্রতিটি ব্যাগ একটি অনন্য কার্যকরী কাজ এবং আগামী বহু বছর চলবে এমন ডিজাইন করা হয়েছে। এগুলি আপনার প্রতিদিনের জীবনে একটি স্পর্শ বাড়াতে সঠিক উপায়।`
+             ],
+    ta:[ `சிதாரா திரும்பம் கருமம் போல மிகவும் அழகான முறையில் சில்க்கியமாக உருவாக்கப்பட்டுள்ளன. ஒவ்வொரு பையும் ஒரு உத்கிரியமான கைமிகு வேலை மற்றும் பல ஆண்டுகள் வாழ திரும்பப்போகும் வடிவமைப்பானது. இவை உங்கள் அனைத்துடனும் செயல்திறன் மற்றும் பூஜ்ஜியம் சேர்க்க செல்லும் நன்மைகள் சேர்க்கின்றன.`
+             ],
+    te:[`సితారా చామడా బ్యాగ్‌లు కౌశల్ వంటి కళాకారుల ద్వారా ఉత్కృష్ట గుణముల యంత్రజాల చామడా నుండి హ్యాండ్‌క్రాఫ్టెడ్‌గా నిర్మించబడుతున్నాయి. ప్రతి బ్యాగ్ అన్నింటికీ ఒక అనూహిత కార్యకలా మరియు చాలా ఏళ్లు ముందుకు ఉంటుంది. ఇవి మీ రోజువారీ జీవితాన్ని విలాసవంతమైన మరియు సొంతమైనగా చేర్చే ఒక శాంతిని యోచిస్తుంది.`
+             ],
+    kn:[`ಸಿತಾರಾ ಚಮಡಿ ಬ್ಯಾಗ್‌ಗಳು ಕೌಶಲಿಗಳಿಂದ ಅತ್ಯುತ್ತಮ ಗುಣಮಟ್ಟದ ಸತ್ಯ ಚಮಡಿಯಿಂದ ಹೆಗಲಾಕಸ್ತಿಗಳಾಗಿವೆ. ಪ್ರತಿ ಬ್ಯಾಗ್‌ಗೆ ಅನುಕೂಲ ಕಾರ್ಯನಿರ್ವಹಣೆ ಮತ್ತು ಬಹುವರ್ಷಗಳ ಕಾಲ ನಡೆಯುವ ರಚನೆಯಾಗಿದೆ. ಇವು ನಿಮ್ಮ ಪ್ರತಿದಿನದ ಜೀವನಕ್ಕೆ ಸೌಂದರ್ಯ ಮತ್ತು ಸುಖವನ್ನು ಸೇರಿಸಲು ಉತ್ತಮ ವಿಧಾನ.`
+             ],
+    fr:[`Les sacs en cuir Sitara sont fabriqués à la main à partir du cuir véritable de la plus haute qualité par des artisans qualifiés. Chaque sac est une œuvre d'art unique et est conçu pour durer de nombreuses années. Ils sont le moyen parfait d'ajouter une touche de luxe et de sophistication à votre vie quotidienne.`
+             ]
+           }
+
+        ]
+    },
+    {
+        id:42,
+        title: "Liquid Perfumes",
+        handle: "liquid-perfumes",
+        image: 'liquid-perfumes.jpg',
+        content:[
+           {
+            en:[
+                `Liquid is a cult modern fragrance to refresh us in fast-paced life.                                                  Our perfumes are created using cutting-edge techniques and the finest ingredients to create scents that are both innovative and long-lasting. We have curated a specific range of the following cities, Milan, Miami, Tokyo, Dubai, Paris, and many more. They are the perfect way to add a touch of refinement to your everyday routine.
+
+                What makes Liquid perfumes so special?
+                Modern Soulful: Our perfumes are designed to capture the essence of modern life, while still retaining a soulful quality. We believe that fragrance is a way to express our individuality and connect with our emotions.
+                Unisex: Our perfumes are designed to be enjoyed by everyone, regardless of gender. We believe that fragrance is a personal expression, and we want you to feel confident and comfortable wearing whatever scent you love.
+                Cutting-edge techniques: We use cutting-edge techniques to create our perfumes, which allows us to create exceptional scents.
+                Finest ingredients: We only use the finest ingredients in our perfumes including Honey Cookie, Amber, Jasmine, Berries, Liily, Violet, etc. This means that our fragrances are not only beautiful, but they are also gentle on your skin.
+                `
+            ],
+    hi:[`लिक्विड एक संस्कृतिवादी आधुनिक सुगंध है जो हमें तेज़ गति वाले जीवन में ताज़गी देता है। हमारे इत्र ताज़ा सामग्री का उपयोग करते हुए कटिंग-एज तकनीकों का उपयोग करके बनाए गए हैं, जो नवाचारी और दीर्घकालिक खुशबू बनाने के लिए हैं। हमने मिलान, मायामी, टोक्यो, दुबई, पेरिस, और कई और शहरों की एक विशिष्ट श्रेणी का चयन किया है। ये आपकी दैनिक दिनचर्या में शिष्टता का एक छुआछूती जोड़ने का सही तरीका है।
+
+    लिक्विड इत्र को इतना विशेष क्या बनाता है?
+    आधुनिक आत्मिक: हमारे इत्रों का निर्माण आधुनिक जीवन के सार को कैद करने के लिए किया गया है, लेकिन फिर भी एक आत्मिक गुणवत्ता को बनाए रखने के लिए। हम मानते हैं कि सुगंध एक व्यक्तित्व को व्यक्त करने का एक तरीका है और हमारे भावनाओं से जुड़ने का एक तरीका है।
+    यूनिसेक्स: हमारे इत्रों को लिंग के बिना सभी के द्वारा आनंदित किया जाने के लिए डिज़ाइन किया गया है। हम मानते हैं कि सुगंध एक व्यक्तिगत अभिव्यक्ति है, और हम चाहते हैं कि आप जो भी सुगंध पसंद करते हैं, उसे पहनते समय आत्मविश्वासी और आरामदायक महसूस करें।
+    कटिंग-एज तकनीक: हमारे इत्रों को बनाने के लिए हम कटिंग-एज तकनीकों का उपयोग करते हैं, जो हमें असाधारण खुशबू बनाने की अनुमति देता है।
+    उत्कृष्ट सामग्री: हम अपने इत्रों में सिर्फ उत्कृष्ट सामग्री का ही उपयोग करते हैं जिसमें हनी कुकी, एंबर, जैस्मीन, बेरीज़, लिली, वायलेट, आदि शामिल हैं। इसका मतलब है कि हमारी खुशबू सिर्फ सुंदर नहीं है, बल्कि वह आपकी त्वचा पर भी कोमल है।`
+             ],
+    bn:[`তরল একটি পুনর্জাগরণ সংগীত যাতে তা দ্রুতগতিতে জীবনে আমাদের প্রতিশ্রুতি করতে। আমাদের ইত্র তৈরি করা হয় কাটিং-এজ প্রযুক্তি এবং সর্বোত্তম উপাদান ব্যবহার করে, যা অভিনব এবং দীর্ঘদিনের গন্ধ তৈরি করার জন্য। আমরা আনন্দপ্রাপ্ত আপনার প্রতিদিনের স্বাভাবিক রুটিনে সান্ত্বনা যোগ করার একটি নির্দিষ্ট শ্রেণী কুরেট করেছি, যা নিম্নলিখিত শহরগুলির মধ্যে: মিলান, মায়ামি, টোকিও, দুবাই, প্যারিস এবং অনেক অন্যান্য।
+
+    তরল ইত্র এত বিশেষ করে কেন?
+    আধুনিক আত্মবিশ্বাসী: আমাদের ইত্র আধুনিক জীবনের উচ্চস্বরতা ধরে তুলতে ডিজাইন করা হয়েছে, যখন এখনো একটি আত্মবিশ্বাসী গুণগুণ রয়েছে। আমরা বিশ্বাস করি যে গন্ধ আমাদের ব্যক্তিত্ব প্রকাশ এবং আমাদের ভাবনাগুলির সাথে যোগাযোগ করার একটি উপায়।
+    ইউনিসেক্স: আমাদের ইত্র প্রত্যেকের অনুভবের জন্য ডিজাইন করা হয়েছে, লিঙ্গের অবমাননা ছাড়া। আমরা বিশ্বাস করি যে গন্ধ ব্যক্তিগত অভিব্যক্তি এবং আমরা চাই আপনি আপনার পছন্দসই গন্ধ পরেন এবং তা পরেন কখনও নিশ্চিত ও সুখী অনুভব করতে।
+    কাটিং-এজ প্রযুক্তি: আমরা আমাদের ইত্র তৈরি করার জন্য কাটিং-এজ প্রযুক্তি ব্যবহার করি, যা আমাদের অসাধারণ গন্ধ তৈরি করার অনুমতি দেয়।
+    সর্বোত্তম উপাদান: আমরা আমাদের ইত্রে কেবলমাত্র সর্বোত্তম উপাদান ব্যবহার করি যেমন হানি কুকি, আম্বার, জাসমিন, বেরিজ, লিলি, ভায়োলেট, ইত্যাদি। এর অর্থ হল আমাদের ফ্রেগ্রান্স শুধুমাত্র সুন্দর নয়, তবে এগুলি আপনার ত্বকের উপর মার্জিতও।`
+             ],
+    ta:[`திரவம் ஒரு வேகமாக வாழ்க்கையில் எங்கேயும் புனிதமான போதகமாகும். எங்கள் இத்திருவங்கள் வெளிப்படுத்தும் தொழில்நுட்ப மூலம் மற்றும் மிகவும் சிறந்த பட்டியல்களை உருவாக்க உருவாக்கப்பட்டுள்ளன. நாங்கள் மிலான், மயாமி, டோக்கியோ, டுபாய், பாரிஸ் மற்றும் பல நகரங்களில் ஒரு குறிப்பிட்ட இடங்களில் ஒரு குறிப்பிட்ட வரையறையை சூழலமாக உருவாக்கி உள்ளோம்.
+
+    திரவம் இத்திருவங்கள் என்னென்னிடம் விசேஷமானது?
+    நவீன ஆன்மீகமான: எங்கள் இத்திருவங்கள் நவீன வாழ்க்கையின் சர்வம் பேரிலும் அடையாளமாக பிடிக்கும் வடிவமைப்புகளில் வடிவமைக்கப்பட்டுள்ளது, இன்னும் ஒரு ஆன்மீகமான அளவை பெறும். எங்கள் பொருள் எதிர்பார்க்கும் மனதை பிடிக்க இது வாய்ப்பாட்டை வாய்ப்பாட்டை மாற்றுவதற்கு ஒரு வழி என்று நாங்கள் நம்புகிறோம்.
+    குண்டுகள்: எங்கள் இத்திருவங்கள் பால் உலகமாளிகள் மட்டுமே பெறுவதை உருக்க உருக்கப்பட்டது, பட்சமாக எல்லா பாலினருக்கும் பிடிக்க உருவாக்கப்பட்டுள்ளது. நாம் பெருமகிழ்ச்சியுடன் மற்றும் உடன்படுத்தப்பட்ட அருமையான நகையானது என்று நீங்கள் நினைக்கும் எல்லா வரம்பிலும் தங்கியது என்று நாங்கள் நம்புகிறோம்.
+    கட்டிடிங்-எஜ் தொழில்நுட்பம்: எங்கள் இத்திருவங்கள் உருவாக்க கட்டிடிங்-எஜ் தொழில்நுட்பங்களை பயன்படுத்துகின்றன, இது எங்கள் அசாதாரண நகையானது உருவாக்க அனுமதிக்கின்றது.
+    சிறந்த உத்தியை: எங்கள் இத்திருவங்களில் எழுத்துக்களை உருவாக்கும்போது நாம் சிறந்த உத்திகளைப் பயன்படுத்துகிறோம், அதிகமாக ஹனி குக்கி, அம்பர், ஜாஸ்மின், பெர்ரிஸ், லிலி, வயலட் ஆகியவை உபயோகிக்கின்றோம். இதன் அர்த்தம் எங்கள் நகையானது மட்டுமே அல்லது அது உங்கள் தோல் மீது பனையாகாது என்று கூற என்னில்லை।`
+             ],
+    te:[`తొందరగా ఉన్న జీవితంలో మనిషికి శాశ్వతమైన గరిష్టం ఇవ్వడానికి లిక్విడ్ అత్యంత ప్రసిద్ధి చెందిన సుగంధం. మన ఇత్తులు కట్టింపు తెగించే మంచి రకములో సుగంధాన్ని తీసుకొని, మాకు అందించే సుగంధం నమ్మకం మరియు దీనితో అనుభవించడం అత్యంత ఆనందం కలిగిస్తుంది. మిలాన్, మియామి, టోక్యో, డుబాయ్, పారీస్ మరియు ఇతర అనేక నగరాలలో మా నిర్వచిత విస్తృతి యొక్క ఒక ప్రదర్శనా విస్తృతిని అభివృద్ధి చేస్తుంది. ఈ నగరాల కోసం సామాన్య రోజుకి అవసరమైన అభ్యాసాలకు ఒక ప్రాముఖ్యతను చేర్చే ఆదరణీయ విధానం.
+
+    లిక్విడ్ ఇత్తులు ఎలాంటి ప్రత్యేకమైనవి?
+    ఆధునిక మనస్సికే: మా ఇత్తులు ఆధునిక జీవితంను తీసుకున్నట్లు, ఇక్కడ ఇక్కడ ఒక ఆత్మకథనాత్మకం ఉంటుంది. మన నిజమైనతో ఆత్మబాధాత్మకంగా సంబంధించిన ఆధారమును గ్రహించే మార్గంగా అయితే పరిశుద్ధమైన పాటిదారును ఆవిష్కరించటానికి ఉంటుంది.
+    లింగాన్ని మీదిటి చేయలేదు: మా ఇత్తులు లింగం ఎలాంటి ప్రభావం లేదు, అవి ఎవరికి ఇష్టమవుతాయి. అయితే, అవి వ్యక్తిగత అభివ్యక్తి మరియు అనుభవించడానికి ఆశాభద్ధమైన ఒక మార్గమార్గా ఉంటాయి.
+    తరలించే-ఎజ్ తొఴిలు: మా ఇత్తులు తరలించే-ఎజ్ తొఴిలును ఉపయోగించి, అద్భుతమైన గంధాలను సృష్టించగలిగే అవకాశాలు కలిగి ఉంటాయి.
+    ఉత్తమ ఉపకరణాలు: మా ఇత్తులు మాత్రమే ఉత్తమ ఉపకరణాలను ఉపయోగిస్తాయి, అందువల్ల అవి మీ చర్మం మీద మించినవి కావాలి.`
+             ],
+    kn:[`ತ್ವರಿತವಾಗಿ ಜೀವನದಲ್ಲಿ ಪುನಃ ಚಲಿಸುವ ಮೂಲಕ ಮನುಷ್ಯನನ್ನು ಸುಗಮಗೊಳಿಸುವ ನೆಚ್ಚಿನ ಧೂಪದಿಂದ ತಯಾರಿಸಿದ ಸುಗಂಧ. ನಮ್ಮ ಇತ್ತುಗಳು ಅತ್ಯುನ್ನತ ಪ್ರಮಾಣದ ಆದಿಪ್ರಮುಖತೆಯನ್ನು ನಿರ್ಮಿಸಲು ಕಟ್ಟಿದ್ದು, ಇದು ನಿಮ್ಮ ಪ್ರತಿದಿನದ ನಡುವಿನ ವೈಯಕ್ತಿಕ ಗೆಲುವಿನಲ್ಲಿ ಮುಖ್ಯವಾಗಿ ಸುಗಂಧವನ್ನು ಸೇರಿಸಲು ಸರಳವಾದ ರೂಪದಲ್ಲಿ ಪರಿಶುದ್ಧ ಪ್ರವರ್ತನೆಯನ್ನು ಕುರಿತು.
+
+    ಲಿಕ್ವಿಡ್ ಇತ್ತುಗಳಲ್ಲಿ ಏನು ವಿಶೇಷ?
+    ಆಧುನಿಕ ಆತ್ಮವಂತ: ನಮ್ಮ ಇತ್ತುಗಳು ಆಧುನಿಕ ಜೀವನದ ಸಾರವನ್ನು ಹಿಡಿದಿಟ್ಟಿವೆ, ಅದರಲ್ಲಿ ಇನ್ನೊಂದು ಆತ್ಮವಂತ ಗುಣವನ್ನು ಹೊಂದಿರುವುದು. ನಾವು ಸೂಚಿಸುವ ಗಂಧವು ನಮ್ಮ ವೈಯಕ್ತಿಕತೆಯನ್ನು ವ್ಯಕ್ತಿಗೊಳಿಸಲು ಹೆಚ್ಚಾಗಿ ಆಗುವುದು ಎಂಬುದರಲ್ಲಿ ನಾವು ನಂಬುತ್ತಿದ್ದೇವೆ.
+    ಲಿಂಗಾನುಸಾರವಾಗಿಲ್ಲ: ನಮ್ಮ ಇತ್ತುಗಳು ಲಿಂಗಗಳಿಂದ ಪಾರಾಗಿರುವುದು ಅದು ಯಾರಿಗೆ ಇಷ್ಟವಾಗಿದೆಯೋ ಅದರಲ್ಲಿ ನಿಮ್ಮ ಆತ್ಮವಿಶ್ವಾಸವಿರಲಿ, ಮತ್ತು ನೀವು ನೀವೇ ಇಷ್ಟಪಡುವ ಗಂಧವನ್ನು ಧರಿಸುವುದರಲ್ಲಿ ನಿಮ್ಮನ್ನು ಸಹಾನುಭೂತಿಯಿಂದ ನಿಲ್ಲಿಸಲು ನಾವು ಬಯಸುತ್ತೇವೆ.
+    ಅತ್ಯುನ್ನತ ತಂತ್ರಗಳು: ನಮ್ಮ ಇತ್ತುಗಳನ್ನು ಉತ್ತಮ ತಂತ್ರಗಳನ್ನು ಬಳಸಿ ರಚಿಸುತ್ತೇವೆ, ಇದು ಅತ್ಯುನ್ನತ ಗಂಧವನ್ನು ಸೃಷ್ಟಿಸುವಲ್ಲಿ ನಮಗೆ ಅನುಮತಿ ನೀಡುತ್ತದೆ.
+    ಅತ್ಯುತ್ತಮ ಘಟಕಗಳು: ನಮ್ಮ ಇತ್ತುಗಳಲ್ಲಿ ಮಾತ್ರ ಅತ್ಯುತ್ತಮ ಘಟಕಗಳನ್ನು ಬಳಸುತ್ತೇವೆ, ಇದರ ಮೂಲಕ ಅವು ನಿಮ್ಮ ಚರ್ಮವನ್ನು ಮೆಚ್ಚುವಂತೆ ಮಾಡುತ್ತವೆ.`
+             ],
+    fr:[`Dans une vie trépidante, le parfum culte Liquid nous rafraîchit. Nos parfums sont créés en utilisant des techniques de pointe et les meilleurs ingrédients pour créer des senteurs à la fois innovantes et durables. Nous avons sélectionné une gamme spécifique des villes suivantes : Milan, Miami, Tokyo, Dubaï, Paris, et bien d'autres encore. Ils sont parfaits pour ajouter une touche de raffinement à votre routine quotidienne.
+
+    Qu'est-ce qui rend les parfums Liquid si spéciaux ?
+    Moderne et authentique : Nos parfums sont conçus pour capturer l'essence de la vie moderne, tout en conservant une qualité authentique. Nous croyons que le parfum est un moyen d'exprimer notre individualité et de nous connecter à nos émotions.
+    Unisexe : Nos parfums sont conçus pour être appréciés par tous, quel que soit leur genre. Nous croyons que le parfum est une expression personnelle, et nous voulons que vous vous sentiez confiant et à l'aise en portant le parfum que vous aimez.
+    Techniques de pointe : Nous utilisons des techniques de pointe pour créer nos parfums, ce qui nous permet de créer des senteurs exceptionnelles.
+    Meilleurs ingrédients : Nous n'utilisons que les meilleurs ingrédients dans nos parfums, y compris le miel, l'ambre, le jasmin, les baies, le lys, la violette, etc. Cela signifie que nos parfums sont non seulement beaux, mais aussi doux pour votre peau.`
+             ]
+           }
+
+        ]
+    },
+    {
+        id:43,
+        title: "AtiModa Perfumes",
+        handle: "atimoda-perfumes",
+        image: 'atimoda-perfumes.jpg',
+        content:[
+           {
+            en:[
+                `Atimoda is a celebration of craftsmanship and the unique power of Indian fragrances that are soothing & refreshing to the senses. Our perfumes are created with the utmost care and attention to detail, using only the finest natural ingredients. We bring you the true essence of the traditional aromas of cities of India, Dilli, Benaras, Goa, Calcutta, Lucknow, etc. The result is a collection of fragrances that are both timeless and rare.
+
+
+                What makes AtiModa perfumes so special?
+                
+                Unisex: Our perfumes are designed to be enjoyed by everyone, regardless of gender. We believe that fragrance is a personal expression, and we want you to feel confident and comfortable wearing whatever scent you love.
+                Traditional craftsmanship: Our perfumes are made using traditional methods that have been passed down for generations. This ensures that each fragrance is truly unique and special.
+                Natural ingredients: We only use the finest natural ingredients in our perfumes. This means that our fragrances are not only beautiful, but they are also gentle on your skin. For instance: Rose, Cedar, Bergamont, Lavender, Agarwood, etc.`
+            ],
+    hi:[`आत्मोदा शिल्पकला और भारतीय सुगंधों की अद्वितीय शक्ति का जश्न है, जो इंद्रियों को शांत और ताजगी प्रदान करती है। हमारे इत्र बड़ी सावधानी और विवरण के साथ बनाए गए हैं, केवल बेहतरीन प्राकृतिक उत्पादों का उपयोग करके। हम आपको भारत के शहरों की पारंपरिक खुशबू की वास्तविक सार का पता लगाते हैं, दिल्ली, बनारस, गोवा, कलकत्ता, लखनऊ, आदि। परिणाम एक संग्रह की खुशबूएं हैं जो समयहीन और दुर्लभ हैं।
+
+    आत्मोदा इत्र को क्या विशेष बनाता है?
+    
+    यूनिसेक्स: हमारे इत्र का निर्माण लिंग के अनुसार नहीं किया जाता है। हम मानते हैं कि खुशबू व्यक्तिगत अभिव्यक्ति है, और हम चाहते हैं कि आप जो भी सुगंध पसंद करते हैं, उसे पहनते समय सुरक्षित और सुविधाजनक महसूस करें।
+    
+    पारंपरिक शिल्पकला: हमारे इत्रों को पीढ़ियों से पारित पारंपरिक तरीके से बनाया जाता है। यह सुनिश्चित करता है कि प्रत्येक खुशबू सच में अद्वितीय और विशेष है।
+    
+    प्राकृतिक उत्पाद: हम अपने इत्रों में केवल उत्तम प्राकृतिक सामग्रियों का उपयोग करते हैं। इसका मतलब है कि हमारी खुशबूएं सुंदर ही नहीं हैं, बल्कि वे आपकी त्वचा पर भी कोमल होती हैं।`
+             ],
+    bn:[`আতিমোদা ক্রাফ্টম্যানশিপ এবং ভারতীয় সুগন্ধের অনন্য শক্তির উদযাপন। আমাদের পারফিউমগুলি সর্বোত্তম প্রাকৃতিক উপাদানগুলি ব্যবহার করে সতর্কতা এবং বিস্তারিতভাবে তৈরি করা হয়, এতে শহরের পরম্পরাগত সুগন্ধগুলির অসল অমিট আসে, যেমন দিল্লি, বানারস, গোয়া, কলকাতা, লখনউ, ইত্যাদি। ফলাফল হল একটি সংগ্রহ যা সময়জনক এবং দুর্লভ।
+
+    আতিমোদা পারফিউম কি এত বিশেষ করে?
+    
+    ইউনিসেক্স: আমাদের পারফিউমগুলির উদ্ভাবন যে কোনও লিঙ্গের লোকের সংগ্রহের জন্য হয়েছে। আমরা মনে করি যে সুগন্ধ একটি ব্যক্তিগত অভিব্যক্তি, এবং আমরা চাই আপনি যে সুগন্ধ প্রেম করেন, তা পরিধান করতে সাহায্য এবং সুবিধাজনক অনুভব করতে।
+    
+    পরম্পরাগত ক্রাফ্টম্যানশিপ: আমাদের পারফিউমগুলি প্রজনন পীড়িত পরম্পরাগত পদ্ধতিতে তৈরি হয়। এটি নিশ্চিত করে যে প্রত্যেক সুগন্ধটি সত্যিই অনন্য এবং বিশেষ।
+    
+    ন্যাচারাল উপাদান: আমরা আমাদের পারফিউমগুলিতে শুধুমাত্র শ্রেষ্ঠ প্রাকৃতিক উপাদানগুলি ব্যবহার করি। এটা মানে যে আমাদের সুগন্ধ সুন্দর নয় মাত্র, বরং তা আপনার ত্বকের উপর ভাল হয়।`
+             ],
+    ta:[`ஆத்திமோடா கலைநிறைந்தமாகும் மற்றும் இந்திய வாசனைகளின் அநந்ய சக்தி கொண்ட கொண்டாட்டம். எங்கள் இத்திருக்கும் விசேட காப்புறாக்கள் மட்டுமே பயன்படுத்தி கொள்ளப்படுகின்றன, என்பது இருமுறையாக கொண்டாடப்பட்டது, இந்தியத் தலைநகரங்களின் பாரம்பரிய வாசனைகளின் அசைவரச அற்புதம், அதாவது தில்லி, பனாரஸ், கோவா, கல்கத்தா, லக்னோ ஆகியவற்றின் உண்மை சுவாசங்களின் அப்போது சரியான சக்தி அறியப்படும். விளைவு நேரில் உலகின் மீதமுள்ள செல்லம் மற்றும் பராமரிக்கப்பட்ட நான்குப் பொருட்களை உங்களுக்கு கொண்டு வருகின்றோம்.
+
+    ஆத்திமோடா ஆத்திமோடா பெரும்பாலும் சிலருக்காக உண்மையான பிரிப்புகளை உருவாக்க பயன்படுத்தப்படுகின்றது.`
+             ],
+    te:[`ఆతిమోడా క్రాఫ్ట్‌మాన్‌షిప్ మరియు భారతీయ సుగంధాల అనన్య శక్తిని ఆచరించడానికి ఆనందించడానికి సందర్భం. మా ఇత్తులు అద్భుతంగా ఉన్నాయి మరియు వివరాలపై అత్యంత గమనం పెట్టి, కేవలం శ్రేష్ఠ ప్రాకృతిక ఘటకాలను ఉపయోగించి తయారు చేయబడుతుంది, భారతదేశంలో నగరాల పారంపరిక సుగంధాల అవసరాలను వివరిస్తున్నాయి, అందువల్ల దిల్లీ, బనారస్, గోవా, కల్కత్తా, లక్నో మొదలైన నగరాల యొక్క సంపూర్ణ అవసరాల అవిశేషాలను పరిచయించేందుకు ప్రముఖం.
+
+    ఆతిమోడా ఇత్రాలు ఏమివాళ్ళని చేస్తాయి అంటే ఏమిటి?
+    
+    యూనిసెక్స్: మా ఇత్రాలు లింగం అంటే పరిమితమైన వారికి ఆస్వాదనించబడటం కోసం డిజైన్ చేయబడింది. మాకు ఇత్ర వ్యక్తిగత అభివ్యక్తి అని నమ్మించి, మీరు ప్రేమిస్తున్న ఏదైనా సుగంధం ధరించి ఉన్నట్లయితే, మనం స్థిరముగా మరియు సంతోషపరచడం కోసం స్థిరముగా ఉండాలని నాకు ఆశిస్తుంది.
+    
+    పారంపరిక క్రాఫ్ట్‌మాన్‌షిప్: మా ఇత్రాలు పీడిత పీడిత పారంపరిక పద్ధతులను ఉపయోగించి తయారు చేయబడుతుంది. ఇది ఖచ్చితంగా ప్రతి సుగంధం అనేక ఉదాహరణలో నిజమైన మరియు అద్భుతంగా ఉంటుంది.
+    
+    నేచరల్ ఇంగ్రెడియెంట్స్: మా ఇత్రాలు లేదా పెద్ద ప్రాకృతిక అంశాలను మాత్రమే ఉపయోగిస్తాయి. ఇది అరుదుగా మీ చర్మం మీద కరువుకలు పెట్టడానికి మాత్రమే అని అర్థం.`
+             ],
+    kn:[`ಆತಿಮೋಡಾ ಕೌಶಲ್ಯವನ್ನು ಮತ್ತು ಇಂಡಿಯನ್ ವಾಸನೆಗಳ ಅನ್ಯತೆಯ ಶಕ್ತಿಯ ಆಚರಣೆಯನ್ನು ಆಚರಿಸುವ ಉತ್ಸವ. ನಮ್ಮ ಪರಿಫ್ಯೂಮ್‌ಗಳು ಮಟ್ಟಿಗೆ ಗಮನ ಹರಿಯಿಸಿ, ಹೆಚ್ಚು ಸೂಕ್ಷ್ಮವಾದ ವಿವರಗಳಿಂದ ತಯಾರಿಸಲಾಗಿದೆ, ಕೇವಲ ಅತ್ಯುತ್ತಮ ನೈಸರ್ಗಿಕ ಘಟಕಗಳನ್ನು ಬಳಸಿ. ನಾವು ನಿಜವಾದ ಭಾರತೀಯ ನಗರಗಳ ಸಾಂಪ್ರದಾಯಿಕ ಸುಗಂಧಗಳ ಸತ್ಯವನ್ನು ನಿಮಗೆ ತರುತ್ತೇವೆ, ದಿಲ್ಲಿ, ಬನಾರಸ್‌, ಗೋವಾ, ಕಲಕತ್ತಾ, ಲಖ್ನೋ ಮೊದಲಾದ ನಗರಗಳ ಹವಾಗಿ. ಫಲವಾಗಿ ಕಾಲದೇಶಗಳಿಗೆ ಸಂಬಂಧಪಟ್ಟ ಸಂಗ್ರಹವು ಕಾಲಚುರುಕುವ ಮತ್ತು ಅಪರೂಪದ ಸುಗಂಧಗಳ ಒಂದು ಸಂಗ್ರಹವಾಗಿದೆ.
+
+    ಆತಿಮೋಡಾ ಪರಫ್ಯೂಮ್‌ಗಳನ್ನು ಏನು ವಿಶೇಷವಾಗಿ ಮಾಡುತ್ತದೆ?
+    
+    ಲಿಂಗ ವಿಶೇಷವಿಲ್ಲ: ನಮ್ಮ ಪರಫ್ಯೂಮ್‌ಗಳು ಲಿಂಗದ ಮೇಲೆ ನಿರ್ಮಿಸಲಾಗಿದೆ. ನಾವು ಭಾವಿಸುವ ಹೊಂದಾಣಿಕೆ ಪರಿಮಿತವಲ್ಲ, ನೀವು ಯಾವ ಸುಗಂಧವನ್ನು ಇಷ್ಟಪಟ್ಟರೂ ಧೈರ್ಯದಿಂದ ಧರಿಸಲು ಇಚ್ಛಿಸುವೆವು.
+    
+    ಸಾಂಪ್ರದಾಯಿಕ ಕೌಶಲ್ಯ: ನಮ್ಮ ಪರಫ್ಯೂಮ್‌ಗಳು ತಲುಪಲುಗಳಿಗೆ ಹಾಗೂ ಅಂಕಿತ ವಿವರಗಳಿಗೆ ನಡುವೆ ಪುರಾತನ ವಿಧಾನಗಳನ್ನು ಬಳಸಿ ತಯಾರಿಸಲಾಗಿದೆ. ಇದು ಪ್ರತಿ ಸುಗಂಧವು ನಿಜವಾಗಿ ಅನ್ಯತೆಯೂ ವಿಶೇಷವೂ ಆಗಿದೆ.
+    
+    ನೈಸರ್ಗಿಕ ಘಟಕಗಳು: ನಮ್ಮ ಪರಫ್ಯೂಮ್‌ಗಳಲ್ಲಿ ನಾವು ಕೇವಲ ಅತ್ಯುತ್ತಮ ನೈಸರ್ಗಿಕ ಘಟಕಗಳನ್ನೇ ಬಳಸುತ್ತೇವೆ. ಇದು ಅರಳಿವಾದ, ಸುಂದರ ಮತ್ತು ಮಿಲನದ ರೀತಿಯಲ್ಲಿ ಮುಕ್ತಿಯನ್ನು ನೀಡುತ್ತದೆ, ಉದಾಹರಣೆಗೆ: ಗುಲಾಬ, ಸೀದರ್, ಬರ್ಗಮಾಟ್, ಲಾವೆಂಡರ್, ಅಗರ್‌ವುಡ್ ಮುಂತಾದವು.`
+             ],
+    fr:[`AtiModa est une célébration de l'artisanat et du pouvoir unique des fragrances indiennes qui apaisent et rafraîchissent les sens. Nos parfums sont créés avec le plus grand soin et une attention particulière aux détails, en n'utilisant que les meilleurs ingrédients naturels. Nous vous apportons la véritable essence des arômes traditionnels des villes de l'Inde, telles que Delhi, Bénarès, Goa, Calcutta, Lucknow, etc. Le résultat est une collection de fragrances à la fois intemporelles et rares.
+
+    Qu'est-ce qui rend les parfums AtiModa si spéciaux ?
+    
+    Unisexes : Nos parfums sont conçus pour être appréciés par tout le monde, peu importe le genre. Nous croyons que le parfum est une expression personnelle, et nous voulons que vous vous sentiez confiant et à l'aise en portant le parfum que vous aimez.
+    Artisanat traditionnel : Nos parfums sont fabriqués selon des méthodes traditionnelles transmises de génération en génération. Cela garantit que chaque fragrance est vraiment unique et spéciale.
+    Ingrédients naturels : Nous n'utilisons que les meilleurs ingrédients naturels dans nos parfums. Cela signifie que nos fragrances sont non seulement belles, mais aussi douces pour votre peau. Par exemple : rose, cèdre, bergamote, lavande, bois de oud, etc.`
+             ]
+           }
+
+        ]
+    },
 ]
 
 export default lang;

@@ -18,8 +18,8 @@ export default function page() {
   return (
    <>
    <Navbar/>
-   <Hero font={great_vibes.className}/>
-   <Brands font={great_vibes.className}/>
+   <Hero font={dancing_script.className}/>
+   <Brands font={dancing_script.className}/>
    <Blogs font={dancing_script.className}/>
    <Footer font={great_vibes.className}/>
    </>
